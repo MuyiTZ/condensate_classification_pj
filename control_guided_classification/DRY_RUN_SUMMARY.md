@@ -1,6 +1,6 @@
 # Dry Run Summary
 
-Run time: 2026-05-25T23:33:51.7751806-04:00
+Run time: 2026-05-26T00:01:48
 Project folder: `D:\Tianzi\condensate_classification_pj`
 Output folder: `D:\Tianzi\condensate_classification_pj\control_guided_classification`
 
@@ -15,14 +15,25 @@ Output folder: `D:\Tianzi\condensate_classification_pj\control_guided_classifica
 
 ## MCM2 Bound File
 
-- Expected file: `MCM2\HCT116-1125-CT\CSV\SF_10ms_condensate_may22_\single-behaviour-track-MCM2-bound.csv`
+- Expected file: `MCM2/HCT116-1125-CT/CSV/SF_10ms_condensate_may22_/single-behaviour-track-MCM2-bound.csv`
 - Status: FOUND
 - Resolved path: `D:\Tianzi\condensate_classification_pj\MCM2\HCT116-1125-CT\CSV\SF_10ms_condensate_may22_\single-behaviour-track-MCM2-bound.csv`
+- Candidate MCM2-bound-like files:
+  - `MCM2/HCT116-1125-CT/CSV/SF_10ms_condensate_may22_/single-behaviour-track-MCM2-bound.csv`
+  - `MCM2/HCT116-1125-CT/CSV/SF_10ms_condensate_may22_/single-behaviour-track-MCM2-bound.csv.bak`
 
 ## Files
 
-- Total files discovered: 874
-- CSV files discovered: 391
+- Total files discovered: 918
+- CSV files discovered: 393
 
-Dry-run result: 
-PASS
+## Expected Full-Analysis Outputs
+
+- feature_matrix_tracks.csv
+- feature_dictionary.csv
+- control_model_predictions.csv
+- final_control_guided_track_classification.csv
+- summary_by_dataset.csv
+- plots/ and easy_interpretation/
+
+Dry-run result: PASS

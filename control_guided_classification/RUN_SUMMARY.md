@@ -73,3 +73,10 @@ No remote configured yet.
 python control_guided_condensate_classification.py --project-folder "D:\Tianzi\condensate_classification_pj" --dry-run
 python control_guided_condensate_classification.py --project-folder "D:\Tianzi\condensate_classification_pj"
 ```
+
+## Update 2026-05-26
+
+- The bundled Codex Python was used only for syntax checking and dry-run inventory, as approved.
+- The script dry-run completed successfully.
+- Attempted to run final analysis with `conda run -n smol_env ...`, but `conda` is not available on this PowerShell PATH.
+- Full analysis is blocked until the exact Anaconda/conda command or `conda.exe` path for `smol_env` is provided.

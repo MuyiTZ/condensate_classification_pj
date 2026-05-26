@@ -1,0 +1,18 @@
+[2026-05-26T00:01:46] Started control-guided condensate classification
+[2026-05-26T00:01:46] Python version: 3.12.13 (main, Mar  3 2026, 15:01:35) [MSC v.1944 64 bit (AMD64)]
+[2026-05-26T00:01:46] Operating system: Windows-11-10.0.26200-SP0
+[2026-05-26T00:01:46] Current working directory: C:\Users\rangq\Desktop\SMT_codes\Analysis_PIPELINE\workshopV2\Smol-FIESTA\SMol_FIESTA
+[2026-05-26T00:01:46] Project folder: D:\Tianzi\condensate_classification_pj
+[2026-05-26T00:01:46] Output folder: D:\Tianzi\condensate_classification_pj\control_guided_classification
+[2026-05-26T00:01:46] Dry run: True
+[2026-05-26T00:01:46] Random seed: 42
+[2026-05-26T00:01:46] Discovered 918 files
+[2026-05-26T00:01:48] Dry-run group presence: {"H2B": true, "MCM2": true, "MCM2_Bound": true, "NLS": true, "NONO": true, "TDP43": true}
+[2026-05-26T00:01:48] Dry-run MCM2 bound status: found
+[2026-05-26T00:01:48] Dry-run result: PASS
+[2026-05-26T00:01:48] Finished with exit code 0
+[info] Bundled Codex Python syntax check passed after target-specific rule correction.
+[info] Bundled Codex Python script dry-run completed successfully.
+[command] conda run -n smol_env python control_guided_condensate_classification.py --project-folder D:\Tianzi\condensate_classification_pj
+[error] conda command was not found on this PowerShell PATH. Full analysis was not run.
+[next] User needs to provide exact conda.exe path or Anaconda Prompt command for smol_env.
