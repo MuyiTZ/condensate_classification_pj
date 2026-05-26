@@ -13,3 +13,7 @@
 [2026-05-26T00:08:10] Control outlier threshold: 3.6538428494336097
 [2026-05-26T00:08:12] WARNING: trapping_score_controls_vs_targets plot skipped because trapping_score is unavailable.
 [2026-05-26T00:08:13] Finished with exit code 0
+[git] git remote add origin https://github.com/MuyiTZ/condensate_classification_pj
+[git] git branch -M main
+[git] git push -u origin main
+[warning] git push timed out after 10 minutes; local repository remains committed on main with origin configured. Manual push required.
