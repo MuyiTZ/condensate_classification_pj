@@ -171,3 +171,10 @@ No remote configured yet.
 ```bash
 git -c safe.directory=D:/Tianzi/condensate_classification_pj push -u origin main
 ```
+
+## Push Update After Authentication
+
+- Authentication was completed and the push was retried.
+- GitHub warned about one file above the recommended 50 MB size. No file exceeded the 100 MB hard limit.
+- Remote `main` now points to commit `6ac8d40`.
+- Local `main` was fetched and is synced with `origin/main` before this final note commit.
