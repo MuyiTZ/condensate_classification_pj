@@ -1,0 +1,4 @@
+state_code,state,display_state,assigned_track_count,assigned_track_fraction,raw_frame_count,raw_frame_fraction,assigned_track_duration_total_frames,assigned_track_duration_fraction,duration_mean_frames,duration_median_frames,duration_min_frames,duration_max_frames,valid_frame_mean,stable_frame_mean,short_run_frame_mean,duration_mean_s,duration_median_s,duration_min_s,duration_max_s
+0,diffusion,Diffusion,344,0.882051282051282,4474,0.7885089883679943,4572,0.8057807543179415,13.290697674418604,12.0,10,45,13.290697674418604,13.005813953488373,0.28488372093023256,0.13290697674418606,0.12,0.1,0.45
+1,constrained_diffusion,Constrained diffusion,33,0.08461538461538462,680,0.11984490659146986,561,0.09887204793796264,17.0,14.0,10,51,17.0,17.0,0.0,0.16999999999999998,0.14,0.1,0.51
+2,bound,Bound,13,0.03333333333333333,520,0.09164610504053577,541,0.09534719774409588,41.61538461538461,24.0,10,124,41.61538461538461,40.0,1.6153846153846154,0.41615384615384615,0.24,0.1,1.24

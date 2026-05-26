@@ -1,0 +1,4 @@
+state_code,state,display_state,raw_frame_count,raw_frame_fraction
+0,diffusion,Diffusion,3870,0.03718186447354515
+1,constrained_diffusion,Constrained diffusion,13535,0.13004044848822574
+2,bound,Bound,86678,0.8327776870382291

@@ -1,0 +1,1 @@
+Reading from csv: D:\Tianzi\20251125-MCM2-Halo\stream\ImagesNoMetadata\Analysis_FC_1125_MCM2\SF_10ms_condensate_may22_\Intermediates\tracks.csv 

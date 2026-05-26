@@ -1,0 +1,33 @@
+[Analysis] 
+_______________________________Event Mean Time_______________________________ 
+             Bound  C. Diffusion  Fast Diffusion  Diffusion Time  Rebind Time
+count  1187.000000   4081.000000     4117.000000      5192.00000   444.000000
+mean     18.642797      5.109532        6.670391         9.30547  1079.963964
+std      21.527905      5.272943        3.603048         7.11422   923.639324
+min       4.000000      1.000000        3.000000         1.00000     5.000000
+25%       6.000000      2.000000        4.000000         5.00000   179.750000
+50%      11.000000      3.000000        6.000000         7.00000   813.000000
+75%      21.000000      6.000000        8.000000        11.00000  1947.000000
+max     210.000000     56.000000       29.000000        76.00000  2983.000000 
+ 
+Rebinding probability after 100 frames: 
+-> Successful: 323 
+-> Unsuccessful: 492 
+-> Probability 0.39631901840490796 
+ 
+_______Event proportions_______ 
+       Event  Count  Proportion
+F. Diffusion  27462    0.389847
+C. Diffusion  20852    0.296012
+       Bound  22129    0.314141 
+ 
+
+__Transition Matrix probabilities per Frame__
+ 
+__________________3x3__________________    __________________2x2__________________ 
+            To_F.dif  To_C.Dif  To_Bound                   To Diffusion  To Bound 
+From_F.dif  0.938681  0.061078  0.000241   From Diffusion      0.979178  0.020822 
+From_C.Dif  0.077573  0.874902  0.047525   From Bound          0.042783  0.957217 
+From_Bound  0.000137  0.042646  0.957217                                          
+
+ 

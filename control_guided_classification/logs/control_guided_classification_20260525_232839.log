@@ -1,0 +1,9 @@
+Control-guided condensate classification log
+start_time=2026-05-25T23:28:39.3343235-04:00
+project_folder=D:\Tianzi\condensate_classification_pj
+smol_fiesta_module_folder=C:\Users\rangq\Desktop\SMT_codes\Analysis_PIPELINE\workshopV2\Smol-FIESTA\SMol_FIESTA
+allowed_folders=D:\Tianzi\condensate_classification_pj; C:\Users\rangq\Desktop\SMT_codes\Analysis_PIPELINE\workshopV2\Smol-FIESTA\SMol_FIESTA
+random_seed=42
+mode=setup_before_dry_run
+note=Log created before project implementation and dry-run execution.
+[2026-05-25T23:33:51] PowerShell dry-run inventory completed. Result=PASS

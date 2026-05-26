@@ -1,0 +1,158 @@
+Processing: D:\Tianzi\20251125-MCM2-Halo\MCM-seg\1125_nD_Snap1_BF_FC_MCMC2_PCNA_CP_M2_cp_masks.png 
+	# Cells in Video: 3 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 87 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 87 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 112 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 112 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 20 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 20 
+Processing: D:\Tianzi\20251125-MCM2-Halo\MCM-seg\1125_nD_Snap2_BF_FC_MCMC2_PCNA_CP_M2_cp_masks.png 
+	# Cells in Video: 4 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 128 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 128 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 71 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 71 
+	-> Cell 2  [ NO LIFETIME TRACK ] 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 40 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 40 
+Processing: D:\Tianzi\20251125-MCM2-Halo\MCM-seg\1125_nD_Snap3_BF_FC_MCMC2_PCNA_CP_M2_cp_masks.png 
+	# Cells in Video: 3 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 57 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 57 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 47 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 47 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 26 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 26 
+Processing: D:\Tianzi\20251125-MCM2-Halo\MCM-seg\1125_nD_Snap4_BF_FC_MCMC2_PCNA_CP_M2_cp_masks.png 
+	# Cells in Video: 2 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 132 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 132 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 112 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 112 
+Processing: D:\Tianzi\20251125-MCM2-Halo\MCM-seg\1125_nD_Snap5_BF_FC_MCMC2_PCNA_CP_M2_cp_masks.png 
+	# Cells in Video: 2 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 84 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 84 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 72 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 72 
+Processing: D:\Tianzi\20251125-MCM2-Halo\MCM-seg\1125_nD_Snap6_BF_FC_MCMC2_PCNA_CP_M2_cp_masks.png 
+	# Cells in Video: 3 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 93 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 93 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 352 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 352 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 275 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 275 
+Processing: D:\Tianzi\20251125-MCM2-Halo\MCM-seg\1125_nD_Snap7_BF_FC_MCMC2_PCNA_CP_M2_cp_masks.png 
+	# Cells in Video: 4 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 272 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 272 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 188 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 188 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 200 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 200 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 212 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 212 
+Processing: D:\Tianzi\20251125-MCM2-Halo\MCM-seg\1125_nD_Snap8_BF_FC_MCMC2_PCNA_CP_M2_cp_masks.png 
+	# Cells in Video: 3 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 258 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 258 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 124 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 124 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 319 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 319 
+Processing: D:\Tianzi\20251125-MCM2-Halo\MCM-seg\1125_nD_Snap9_BF_FC_MCMC2_PCNA_CP_M2_cp_masks.png 
+	# Cells in Video: 2 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 197 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 197 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 223 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 223 
+Processing: D:\Tianzi\20251125-MCM2-Halo\MCM-seg\1125_nD_Snap10_BF_FC_MCMC2_PCNA_CP_M2_cp_masks.png 
+	# Cells in Video: 4 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 133 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 133 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 92 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 92 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 101 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 101 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 107 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 107 
+Processing: D:\Tianzi\20251125-MCM2-Halo\MCM-seg\1125_nD_Snap11_BF_FC_MCMC2_PCNA_CP_M2_cp_masks.png 
+	# Cells in Video: 2 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 94 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 94 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 127 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 127 
+Processing: D:\Tianzi\20251125-MCM2-Halo\MCM-seg\1125_nD_Snap12_BF_FC_MCMC2_PCNA_CP_M2_cp_masks.png 
+	# Cells in Video: 2 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 41 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 41 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 130 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 130 
+Saving to csv: D:\Tianzi\20251125-MCM2-Halo\stream\ImagesNoMetadata\Analysis_FC_1125_MCM2\SF_10ms_condensate_may22_\Intermediates\tracks.csv 

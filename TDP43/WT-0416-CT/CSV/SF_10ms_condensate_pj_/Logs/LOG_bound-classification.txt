@@ -1,0 +1,1 @@
+Reading from csv: D:\TDP43-mutant-wt-nter-FC_analysis\WT_selected\20240416_ct\CSV\SF_10ms_condensate_may20_\Intermediates\tracks.csv 

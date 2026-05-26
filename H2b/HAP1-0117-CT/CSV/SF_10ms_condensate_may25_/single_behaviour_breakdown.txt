@@ -1,0 +1,66 @@
+Single-Behaviour Track Breakdown
+================================
+
+Input file: D:\Tianzi\HAP1-H2b-0117-FC\CSV\SF_10ms_condensate_may25_\single-behaviour-track.csv
+Minimum consecutive frames used for stable-state identity: 3
+Frame interval: 0.01 s
+
+Overall totals
+--------------
+Total single-behaviour tracks: 3199
+Total valid non-gap frames: 104083
+
+Frame-weighted raw state occupancy within single-behaviour-track.csv
+--------------------------------------------------------------------
+  Diffusion: 3870 frames (3.72%)
+  Constrained diffusion: 13535 frames (13.00%)
+  Bound: 86678 frames (83.28%)
+
+Track-weighted identity and duration statistics
+-----------------------------------------------
+
+State: Diffusion
+  Assigned tracks: 314
+  Track fraction: 9.82%
+  Raw frame fraction: 3.72%
+  Assigned-track duration fraction: 4.02%
+  Mean duration: 13.338 frames
+  Median duration: 12.000 frames
+  Minimum duration: 10.000 frames
+  Maximum duration: 35.000 frames
+  Mean duration: 0.133 s
+  Median duration: 0.120 s
+  Minimum duration: 0.100 s
+  Maximum duration: 0.350 s
+
+State: Constrained diffusion
+  Assigned tracks: 716
+  Track fraction: 22.38%
+  Raw frame fraction: 13.00%
+  Assigned-track duration fraction: 11.11%
+  Mean duration: 16.144 frames
+  Median duration: 14.000 frames
+  Minimum duration: 10.000 frames
+  Maximum duration: 71.000 frames
+  Mean duration: 0.161 s
+  Median duration: 0.140 s
+  Minimum duration: 0.100 s
+  Maximum duration: 0.710 s
+
+State: Bound
+  Assigned tracks: 2169
+  Track fraction: 67.80%
+  Raw frame fraction: 83.28%
+  Assigned-track duration fraction: 84.87%
+  Mean duration: 40.727 frames
+  Median duration: 30.000 frames
+  Minimum duration: 10.000 frames
+  Maximum duration: 348.000 frames
+  Mean duration: 0.407 s
+  Median duration: 0.300 s
+  Minimum duration: 0.100 s
+  Maximum duration: 3.480 s
+
+Assignment method counts
+------------------------
+  single_stable_state: 3199

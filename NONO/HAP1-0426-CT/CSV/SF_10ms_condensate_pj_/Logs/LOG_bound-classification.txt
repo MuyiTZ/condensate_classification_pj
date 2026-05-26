@@ -1,0 +1,1 @@
+Reading from csv: D:\Tianzi\20240426_HAP1_NONO\HAP1_NONO_CTRL\STREAM\ImagesNoMetadata\d1\SF_10ms_condensate_may22_\Intermediates\tracks.csv 

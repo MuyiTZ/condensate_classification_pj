@@ -1,0 +1,611 @@
+source_file,Video #,Cell,Track,keep_for_condensate_pool,filter_rule,filter_reason,n_valid_behavior_frames,n_diffusive,n_constrained,n_bound,frac_diffusive,frac_constrained,frac_bound,max_consecutive_diffusive,dominant_state,dominant_state_name,dominant_fraction,category,present_states
+single,1,1,2,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,1,3,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,1,20,True,single_like_constrained,"dominant=constrained, fraction=1.000",17,0,17,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,1,1,24,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,1,29,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,1,1,37,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,1,2,12,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,1,2,16,True,single_like_constrained,"dominant=constrained, fraction=1.000",10,0,10,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,1,2,17,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,2,18,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,2,22,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",16,16,0,0,1.0,0.0,0.0,16,0,diffusive,1.0,other,diffusive
+single,1,2,24,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",16,16,0,0,1.0,0.0,0.0,16,0,diffusive,1.0,other,diffusive
+single,1,2,27,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",15,15,0,0,1.0,0.0,0.0,15,0,diffusive,1.0,other,diffusive
+single,1,2,28,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,1,2,33,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,1,2,47,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,2,49,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",21,21,0,0,1.0,0.0,0.0,21,0,diffusive,1.0,other,diffusive
+single,1,2,52,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,2,54,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",16,16,0,0,1.0,0.0,0.0,16,0,diffusive,1.0,other,diffusive
+single,1,2,55,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,1,2,57,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,1,2,58,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,1,2,59,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,1,2,71,True,single_like_constrained,"dominant=constrained, fraction=1.000",17,0,17,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,1,2,72,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,8,2,0,0.8,0.2,0.0,8,0,diffusive,0.8,constraint_diffusion,"diffusive,constrained"
+single,1,2,87,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,1,2,94,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",23,23,0,0,1.0,0.0,0.0,23,0,diffusive,1.0,other,diffusive
+single,1,2,109,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,1,2,121,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,2,122,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",17,14,3,0,0.8235294117647058,0.17647058823529413,0.0,9,0,diffusive,0.8235294117647058,constraint_diffusion,"diffusive,constrained"
+single,1,2,125,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",24,23,1,0,0.9583333333333334,0.041666666666666664,0.0,16,0,diffusive,0.9583333333333334,constraint_diffusion,"diffusive,constrained"
+single,1,2,127,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",16,13,3,0,0.8125,0.1875,0.0,6,0,diffusive,0.8125,constraint_diffusion,"diffusive,constrained"
+single,1,2,128,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,1,2,129,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,1,2,131,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,10,1,0,0.9090909090909091,0.09090909090909091,0.0,7,0,diffusive,0.9090909090909091,constraint_diffusion,"diffusive,constrained"
+single,1,2,141,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,1,2,142,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,2,144,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,2,146,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",30,28,2,0,0.9333333333333333,0.06666666666666667,0.0,12,0,diffusive,0.9333333333333333,constraint_diffusion,"diffusive,constrained"
+single,1,2,148,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,2,151,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,2,159,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",15,15,0,0,1.0,0.0,0.0,15,0,diffusive,1.0,other,diffusive
+single,1,2,165,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",19,19,0,0,1.0,0.0,0.0,19,0,diffusive,1.0,other,diffusive
+single,1,2,167,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,1,2,170,False,reject_single_dominant_not_allowed,"dominant=bound, allowed=constrained",15,0,0,15,0.0,0.0,1.0,0,2,bound,1.0,other,bound
+single,1,2,174,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,1,2,184,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,2,187,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,1,2,189,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,1,2,193,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,1,2,196,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,1,2,198,True,single_like_constrained,"dominant=constrained, fraction=1.000",19,0,19,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,1,2,206,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,1,2,207,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,3,1,True,single_like_constrained,"dominant=constrained, fraction=1.000",10,0,10,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,1,3,2,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,1,3,4,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",26,26,0,0,1.0,0.0,0.0,26,0,diffusive,1.0,other,diffusive
+single,1,3,14,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",16,15,1,0,0.9375,0.0625,0.0,8,0,diffusive,0.9375,constraint_diffusion,"diffusive,constrained"
+single,1,3,19,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,1,3,25,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,1,3,27,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,3,29,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,3,33,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,1,3,43,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,1,3,46,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,1,3,51,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",21,21,0,0,1.0,0.0,0.0,21,0,diffusive,1.0,other,diffusive
+single,1,3,56,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",17,17,0,0,1.0,0.0,0.0,17,0,diffusive,1.0,other,diffusive
+single,1,3,67,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,3,73,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",24,24,0,0,1.0,0.0,0.0,24,0,diffusive,1.0,other,diffusive
+single,1,3,75,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,1,3,78,True,single_like_constrained,"dominant=constrained, fraction=1.000",12,0,12,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,1,3,79,True,single_like_constrained,"dominant=constrained, fraction=1.000",13,0,13,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,1,3,81,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,12,2,0,0.8571428571428571,0.14285714285714285,0.0,8,0,diffusive,0.8571428571428571,constraint_diffusion,"diffusive,constrained"
+single,1,3,82,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",24,23,1,0,0.9583333333333334,0.041666666666666664,0.0,14,0,diffusive,0.9583333333333334,constraint_diffusion,"diffusive,constrained"
+single,1,3,85,True,single_like_constrained,"dominant=constrained, fraction=1.000",38,0,38,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,1,3,86,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",32,29,3,0,0.90625,0.09375,0.0,16,0,diffusive,0.90625,constraint_diffusion,"diffusive,constrained"
+single,1,3,91,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,1,3,92,False,reject_single_dominant_not_allowed,"dominant=bound, allowed=constrained",22,0,0,22,0.0,0.0,1.0,0,2,bound,1.0,other,bound
+single,1,3,95,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",18,16,2,0,0.8888888888888888,0.1111111111111111,0.0,9,0,diffusive,0.8888888888888888,constraint_diffusion,"diffusive,constrained"
+single,1,3,96,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",45,45,0,0,1.0,0.0,0.0,45,0,diffusive,1.0,other,diffusive
+single,1,3,97,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",18,16,2,0,0.8888888888888888,0.1111111111111111,0.0,12,0,diffusive,0.8888888888888888,constraint_diffusion,"diffusive,constrained"
+single,1,3,98,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,1,3,99,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,2,1,7,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,2,1,8,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,2,1,16,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,2,1,22,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",16,14,2,0,0.875,0.125,0.0,14,0,diffusive,0.875,constraint_diffusion,"diffusive,constrained"
+single,2,1,26,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,2,1,27,True,single_like_constrained,"dominant=constrained, fraction=1.000",13,0,13,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,2,1,42,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",16,16,0,0,1.0,0.0,0.0,16,0,diffusive,1.0,other,diffusive
+single,2,1,44,True,single_like_constrained,"dominant=constrained, fraction=1.000",19,0,19,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,2,1,45,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,7,4,0,0.6363636363636364,0.36363636363636365,0.0,7,0,diffusive,0.6363636363636364,constraint_diffusion,"diffusive,constrained"
+single,2,1,47,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,12,2,0,0.8571428571428571,0.14285714285714285,0.0,12,0,diffusive,0.8571428571428571,constraint_diffusion,"diffusive,constrained"
+single,2,1,57,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,2,1,60,True,single_like_constrained,"dominant=constrained, fraction=1.000",11,0,11,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,2,1,68,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,2,1,70,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,2,1,73,True,single_like_constrained,"dominant=constrained, fraction=1.000",16,0,16,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,2,1,79,False,reject_single_dominant_not_allowed,"dominant=bound, allowed=constrained",26,0,1,25,0.0,0.038461538461538464,0.9615384615384616,0,2,bound,0.9615384615384616,bound_constraint,"constrained,bound"
+single,2,1,81,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,13,1,0,0.9285714285714286,0.07142857142857142,0.0,9,0,diffusive,0.9285714285714286,constraint_diffusion,"diffusive,constrained"
+single,2,1,82,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,13,1,0,0.9285714285714286,0.07142857142857142,0.0,10,0,diffusive,0.9285714285714286,constraint_diffusion,"diffusive,constrained"
+single,2,1,90,False,reject_single_dominant_not_allowed,"dominant=bound, allowed=constrained",120,0,1,119,0.0,0.008333333333333333,0.9916666666666667,0,2,bound,0.9916666666666667,bound_constraint,"constrained,bound"
+single,2,1,94,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",17,16,1,0,0.9411764705882353,0.058823529411764705,0.0,12,0,diffusive,0.9411764705882353,constraint_diffusion,"diffusive,constrained"
+single,2,1,95,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,2,1,97,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,2,1,101,True,single_like_constrained,"dominant=constrained, fraction=1.000",10,0,10,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,2,1,109,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,2,1,114,True,single_like_constrained,"dominant=constrained, fraction=1.000",37,0,37,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,2,1,116,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,2,1,117,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,2,2,3,True,single_like_constrained,"dominant=constrained, fraction=1.000",11,0,11,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,2,2,4,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,2,2,5,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",15,15,0,0,1.0,0.0,0.0,15,0,diffusive,1.0,other,diffusive
+single,2,2,8,True,single_like_constrained,"dominant=constrained, fraction=1.000",15,0,15,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,2,2,11,False,reject_single_dominant_not_allowed,"dominant=bound, allowed=constrained",10,0,3,7,0.0,0.3,0.7,0,2,bound,0.7,bound_constraint,"constrained,bound"
+single,2,2,23,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,2,2,45,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,2,2,51,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,2,2,55,True,single_like_constrained,"dominant=constrained, fraction=1.000",11,0,11,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,2,2,59,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,2,2,62,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,2,2,92,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,2,2,96,True,single_like_constrained,"dominant=constrained, fraction=1.000",13,0,13,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,2,2,97,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,12,1,0,0.9230769230769231,0.07692307692307693,0.0,6,0,diffusive,0.9230769230769231,constraint_diffusion,"diffusive,constrained"
+single,2,2,103,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",20,19,1,0,0.95,0.05,0.0,12,0,diffusive,0.95,constraint_diffusion,"diffusive,constrained"
+single,2,2,104,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,2,2,107,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",22,20,2,0,0.9090909090909091,0.09090909090909091,0.0,8,0,diffusive,0.9090909090909091,constraint_diffusion,"diffusive,constrained"
+single,2,2,108,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,2,2,110,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,2,2,111,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,2,3,6,True,single_like_constrained,"dominant=constrained, fraction=1.000",21,0,21,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,2,3,21,True,single_like_constrained,"dominant=constrained, fraction=1.000",15,0,15,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,2,3,34,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",16,14,2,0,0.875,0.125,0.0,9,0,diffusive,0.875,constraint_diffusion,"diffusive,constrained"
+single,2,3,38,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,11,1,0,0.9166666666666666,0.08333333333333333,0.0,6,0,diffusive,0.9166666666666666,constraint_diffusion,"diffusive,constrained"
+single,2,3,45,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,2,3,46,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",15,15,0,0,1.0,0.0,0.0,15,0,diffusive,1.0,other,diffusive
+single,2,3,48,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,2,3,51,True,single_like_constrained,"dominant=constrained, fraction=1.000",12,0,12,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,2,3,52,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",23,22,1,0,0.9565217391304348,0.043478260869565216,0.0,17,0,diffusive,0.9565217391304348,constraint_diffusion,"diffusive,constrained"
+single,2,3,64,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,2,3,66,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",17,17,0,0,1.0,0.0,0.0,17,0,diffusive,1.0,other,diffusive
+single,2,3,67,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,3,1,1,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,3,1,2,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,11,1,0,0.9166666666666666,0.08333333333333333,0.0,7,0,diffusive,0.9166666666666666,constraint_diffusion,"diffusive,constrained"
+single,3,1,5,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,3,1,9,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,3,1,14,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",16,14,2,0,0.875,0.125,0.0,14,0,diffusive,0.875,constraint_diffusion,"diffusive,constrained"
+single,3,1,15,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,3,1,17,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,3,1,19,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,11,1,0,0.9166666666666666,0.08333333333333333,0.0,7,0,diffusive,0.9166666666666666,constraint_diffusion,"diffusive,constrained"
+single,3,1,29,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,3,1,31,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,3,1,36,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,3,1,37,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,3,1,40,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,9,1,0,0.9,0.1,0.0,6,0,diffusive,0.9,constraint_diffusion,"diffusive,constrained"
+single,3,1,48,True,single_like_constrained,"dominant=constrained, fraction=1.000",13,0,13,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,3,1,51,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,3,1,54,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",16,16,0,0,1.0,0.0,0.0,16,0,diffusive,1.0,other,diffusive
+single,3,1,61,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,3,1,76,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,3,1,84,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,3,1,88,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,3,1,89,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,3,1,97,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,3,1,101,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,11,2,0,0.8461538461538461,0.15384615384615385,0.0,6,0,diffusive,0.8461538461538461,constraint_diffusion,"diffusive,constrained"
+single,3,1,104,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,3,1,106,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,3,1,107,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,3,1,108,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,3,1,112,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,3,1,118,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,3,1,119,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,3,1,120,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",22,21,1,0,0.9545454545454546,0.045454545454545456,0.0,16,0,diffusive,0.9545454545454546,constraint_diffusion,"diffusive,constrained"
+single,3,1,121,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,3,1,122,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,10,2,0,0.8333333333333334,0.16666666666666666,0.0,10,0,diffusive,0.8333333333333334,constraint_diffusion,"diffusive,constrained"
+single,3,1,132,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,12,2,0,0.8571428571428571,0.14285714285714285,0.0,7,0,diffusive,0.8571428571428571,constraint_diffusion,"diffusive,constrained"
+single,3,2,2,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,3,2,6,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,3,2,9,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,3,2,14,True,single_like_constrained,"dominant=constrained, fraction=1.000",21,0,21,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,3,2,23,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,3,2,38,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",15,15,0,0,1.0,0.0,0.0,15,0,diffusive,1.0,other,diffusive
+single,3,2,39,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,3,2,55,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",16,16,0,0,1.0,0.0,0.0,16,0,diffusive,1.0,other,diffusive
+single,3,2,60,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,3,2,64,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,3,2,67,True,single_like_constrained,"dominant=constrained, fraction=1.000",16,0,16,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,3,2,69,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,3,2,79,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,3,2,86,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,10,1,0,0.9090909090909091,0.09090909090909091,0.0,7,0,diffusive,0.9090909090909091,constraint_diffusion,"diffusive,constrained"
+single,3,2,89,False,reject_single_dominant_not_allowed,"dominant=bound, allowed=constrained",24,0,2,22,0.0,0.08333333333333333,0.9166666666666666,0,2,bound,0.9166666666666666,bound_constraint,"constrained,bound"
+single,3,2,90,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,3,2,100,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,13,1,0,0.9285714285714286,0.07142857142857142,0.0,7,0,diffusive,0.9285714285714286,constraint_diffusion,"diffusive,constrained"
+single,3,2,109,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,3,2,119,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,4,1,2,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,4,1,3,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",18,17,1,0,0.9444444444444444,0.05555555555555555,0.0,14,0,diffusive,0.9444444444444444,constraint_diffusion,"diffusive,constrained"
+single,4,1,4,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,5,1,5,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,5,1,9,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,11,3,0,0.7857142857142857,0.21428571428571427,0.0,8,0,diffusive,0.7857142857142857,constraint_diffusion,"diffusive,constrained"
+single,5,1,12,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,5,1,14,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,5,1,18,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,9,2,0,0.8181818181818182,0.18181818181818182,0.0,5,0,diffusive,0.8181818181818182,constraint_diffusion,"diffusive,constrained"
+single,5,1,21,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",20,20,0,0,1.0,0.0,0.0,20,0,diffusive,1.0,other,diffusive
+single,5,1,27,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",20,20,0,0,1.0,0.0,0.0,20,0,diffusive,1.0,other,diffusive
+single,5,1,28,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,5,1,32,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",30,30,0,0,1.0,0.0,0.0,30,0,diffusive,1.0,other,diffusive
+single,5,1,38,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,5,1,44,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,5,2,7,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,5,2,10,True,single_like_constrained,"dominant=constrained, fraction=1.000",13,0,13,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,5,2,17,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",15,15,0,0,1.0,0.0,0.0,15,0,diffusive,1.0,other,diffusive
+single,5,2,18,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,5,2,22,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",17,17,0,0,1.0,0.0,0.0,17,0,diffusive,1.0,other,diffusive
+single,5,2,27,True,single_like_constrained,"dominant=constrained, fraction=1.000",51,0,51,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,5,2,29,True,single_like_constrained,"dominant=constrained, fraction=1.000",18,0,18,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,5,2,35,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,10,2,0,0.8333333333333334,0.16666666666666666,0.0,10,0,diffusive,0.8333333333333334,constraint_diffusion,"diffusive,constrained"
+single,5,2,36,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",22,21,1,0,0.9545454545454546,0.045454545454545456,0.0,13,0,diffusive,0.9545454545454546,constraint_diffusion,"diffusive,constrained"
+single,5,2,37,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,12,1,0,0.9230769230769231,0.07692307692307693,0.0,7,0,diffusive,0.9230769230769231,constraint_diffusion,"diffusive,constrained"
+single,5,2,38,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,10,2,0,0.8333333333333334,0.16666666666666666,0.0,6,0,diffusive,0.8333333333333334,constraint_diffusion,"diffusive,constrained"
+single,5,2,45,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,5,3,1,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,9,1,0,0.9,0.1,0.0,6,0,diffusive,0.9,constraint_diffusion,"diffusive,constrained"
+single,5,3,13,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,5,3,23,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",18,16,2,0,0.8888888888888888,0.1111111111111111,0.0,13,0,diffusive,0.8888888888888888,constraint_diffusion,"diffusive,constrained"
+single,5,3,28,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,5,3,31,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,5,3,36,False,reject_single_dominant_not_allowed,"dominant=bound, allowed=constrained",11,0,3,8,0.0,0.2727272727272727,0.7272727272727273,0,2,bound,0.7272727272727273,bound_constraint,"constrained,bound"
+single,5,3,44,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,9,1,0,0.9,0.1,0.0,5,0,diffusive,0.9,constraint_diffusion,"diffusive,constrained"
+single,5,3,46,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",16,16,0,0,1.0,0.0,0.0,16,0,diffusive,1.0,other,diffusive
+single,5,3,47,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",20,20,0,0,1.0,0.0,0.0,20,0,diffusive,1.0,other,diffusive
+single,5,3,51,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,5,3,71,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,5,3,75,True,single_like_constrained,"dominant=constrained, fraction=1.000",15,0,15,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,5,3,77,False,reject_single_dominant_not_allowed,"dominant=bound, allowed=constrained",68,0,1,67,0.0,0.014705882352941176,0.9852941176470589,0,2,bound,0.9852941176470589,bound_constraint,"constrained,bound"
+single,5,3,82,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,5,3,85,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,5,3,91,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,5,3,111,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",18,18,0,0,1.0,0.0,0.0,18,0,diffusive,1.0,other,diffusive
+single,5,3,118,False,reject_single_dominant_not_allowed,"dominant=bound, allowed=constrained",40,0,1,39,0.0,0.025,0.975,0,2,bound,0.975,bound_constraint,"constrained,bound"
+single,5,3,128,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,5,3,141,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,5,3,142,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,5,3,146,True,single_like_constrained,"dominant=constrained, fraction=1.000",14,0,14,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,5,3,147,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,5,3,149,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,5,3,155,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,5,3,166,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,10,2,0,0.8333333333333334,0.16666666666666666,0.0,10,0,diffusive,0.8333333333333334,constraint_diffusion,"diffusive,constrained"
+single,5,3,170,True,single_like_constrained,"dominant=constrained, fraction=1.000",13,0,13,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,5,3,171,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,5,3,175,True,single_like_constrained,"dominant=constrained, fraction=1.000",11,0,11,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,5,3,178,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,5,3,179,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,5,3,182,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,5,3,190,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,5,3,195,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,5,3,207,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,5,3,210,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,5,3,211,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",17,16,1,0,0.9411764705882353,0.058823529411764705,0.0,12,0,diffusive,0.9411764705882353,constraint_diffusion,"diffusive,constrained"
+single,5,3,220,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",15,15,0,0,1.0,0.0,0.0,15,0,diffusive,1.0,other,diffusive
+single,5,3,227,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,5,4,8,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,5,4,9,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,5,4,12,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,5,4,13,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,5,4,15,False,reject_single_dominant_not_allowed,"dominant=bound, allowed=constrained",14,0,2,12,0.0,0.14285714285714285,0.8571428571428571,0,2,bound,0.8571428571428571,bound_constraint,"constrained,bound"
+single,5,4,21,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,5,4,25,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",20,20,0,0,1.0,0.0,0.0,20,0,diffusive,1.0,other,diffusive
+single,5,4,26,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",27,27,0,0,1.0,0.0,0.0,27,0,diffusive,1.0,other,diffusive
+single,5,4,30,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,5,4,33,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,5,4,35,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,1,3,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,6,1,4,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,1,8,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",15,14,1,0,0.9333333333333333,0.06666666666666667,0.0,8,0,diffusive,0.9333333333333333,constraint_diffusion,"diffusive,constrained"
+single,6,1,11,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,6,1,14,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,6,1,17,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,6,1,27,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,6,1,43,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,1,45,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",15,15,0,0,1.0,0.0,0.0,15,0,diffusive,1.0,other,diffusive
+single,6,1,47,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",20,20,0,0,1.0,0.0,0.0,20,0,diffusive,1.0,other,diffusive
+single,6,1,49,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,6,1,50,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",31,28,3,0,0.9032258064516129,0.0967741935483871,0.0,19,0,diffusive,0.9032258064516129,constraint_diffusion,"diffusive,constrained"
+single,6,1,51,False,reject_single_dominant_not_allowed,"dominant=bound, allowed=constrained",57,0,3,54,0.0,0.05263157894736842,0.9473684210526315,0,2,bound,0.9473684210526315,bound_constraint,"constrained,bound"
+single,6,1,52,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,6,1,53,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,6,1,56,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",25,24,1,0,0.96,0.04,0.0,19,0,diffusive,0.96,constraint_diffusion,"diffusive,constrained"
+single,6,1,61,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,6,1,65,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",15,15,0,0,1.0,0.0,0.0,15,0,diffusive,1.0,other,diffusive
+single,6,1,69,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,6,1,70,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",16,16,0,0,1.0,0.0,0.0,16,0,diffusive,1.0,other,diffusive
+single,6,1,81,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,6,1,85,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",18,17,1,0,0.9444444444444444,0.05555555555555555,0.0,11,0,diffusive,0.9444444444444444,constraint_diffusion,"diffusive,constrained"
+single,6,1,88,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,6,2,1,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,6,2,6,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,6,2,12,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",22,22,0,0,1.0,0.0,0.0,22,0,diffusive,1.0,other,diffusive
+single,6,2,13,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,6,2,14,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",16,16,0,0,1.0,0.0,0.0,16,0,diffusive,1.0,other,diffusive
+single,6,2,22,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",19,19,0,0,1.0,0.0,0.0,19,0,diffusive,1.0,other,diffusive
+single,6,2,24,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,6,2,28,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,6,2,36,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,2,40,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,6,2,42,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,6,2,43,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,6,2,62,False,reject_single_dominant_not_allowed,"dominant=bound, allowed=constrained",124,0,2,122,0.0,0.016129032258064516,0.9838709677419355,0,2,bound,0.9838709677419355,bound_constraint,"constrained,bound"
+single,6,3,1,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,3,4,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,8,2,0,0.8,0.2,0.0,8,0,diffusive,0.8,constraint_diffusion,"diffusive,constrained"
+single,6,3,5,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,3,13,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,6,3,14,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,3,16,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,6,3,23,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",18,18,0,0,1.0,0.0,0.0,18,0,diffusive,1.0,other,diffusive
+single,6,3,28,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,6,3,36,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",21,19,2,0,0.9047619047619048,0.09523809523809523,0.0,10,0,diffusive,0.9047619047619048,constraint_diffusion,"diffusive,constrained"
+single,6,3,38,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,3,45,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,3,46,True,single_like_constrained,"dominant=constrained, fraction=1.000",10,0,10,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,6,3,51,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,6,3,60,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,6,3,63,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,6,3,64,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",17,17,0,0,1.0,0.0,0.0,17,0,diffusive,1.0,other,diffusive
+single,6,3,66,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,6,3,68,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",27,25,2,0,0.9259259259259259,0.07407407407407407,0.0,15,0,diffusive,0.9259259259259259,constraint_diffusion,"diffusive,constrained"
+single,6,3,71,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,3,72,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,6,3,88,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,4,3,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,6,4,16,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,4,22,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",23,23,0,0,1.0,0.0,0.0,23,0,diffusive,1.0,other,diffusive
+single,6,4,23,False,reject_single_dominant_not_allowed,"dominant=bound, allowed=constrained",10,0,2,8,0.0,0.2,0.8,0,2,bound,0.8,bound_constraint,"constrained,bound"
+single,6,4,26,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,6,4,30,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,4,31,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,6,4,59,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,4,61,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,6,4,67,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,4,69,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",15,15,0,0,1.0,0.0,0.0,15,0,diffusive,1.0,other,diffusive
+single,6,4,70,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,4,71,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",15,13,2,0,0.8666666666666667,0.13333333333333333,0.0,10,0,diffusive,0.8666666666666667,constraint_diffusion,"diffusive,constrained"
+single,6,4,73,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,6,4,74,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",17,17,0,0,1.0,0.0,0.0,17,0,diffusive,1.0,other,diffusive
+single,6,4,76,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,6,4,92,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,10,1,0,0.9090909090909091,0.09090909090909091,0.0,6,0,diffusive,0.9090909090909091,constraint_diffusion,"diffusive,constrained"
+single,6,4,93,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,4,98,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,4,114,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,6,4,115,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,6,4,121,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,6,4,138,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",17,15,2,0,0.8823529411764706,0.11764705882352941,0.0,8,0,diffusive,0.8823529411764706,constraint_diffusion,"diffusive,constrained"
+single,6,4,149,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,7,1,5,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,7,1,13,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,7,1,19,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,7,1,20,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,7,1,22,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,7,1,25,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,7,1,27,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",21,21,0,0,1.0,0.0,0.0,21,0,diffusive,1.0,other,diffusive
+single,7,1,31,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,7,1,36,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,7,1,40,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,7,2,1,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,7,2,4,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,7,2,9,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,7,2,16,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,7,2,23,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,11,1,0,0.9166666666666666,0.08333333333333333,0.0,7,0,diffusive,0.9166666666666666,constraint_diffusion,"diffusive,constrained"
+single,7,2,29,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,7,2,32,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,7,2,41,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,7,2,56,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",19,18,1,0,0.9473684210526315,0.05263157894736842,0.0,12,0,diffusive,0.9473684210526315,constraint_diffusion,"diffusive,constrained"
+single,7,2,60,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,7,3,4,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,7,3,7,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,7,3,20,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,8,2,0,0.8,0.2,0.0,8,0,diffusive,0.8,constraint_diffusion,"diffusive,constrained"
+single,7,3,23,True,single_like_constrained,"dominant=constrained, fraction=1.000",26,0,26,0,0.0,1.0,0.0,0,1,constrained,1.0,other,constrained
+single,7,4,1,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,7,4,2,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,7,4,7,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",17,15,2,0,0.8823529411764706,0.11764705882352941,0.0,8,0,diffusive,0.8823529411764706,constraint_diffusion,"diffusive,constrained"
+single,7,5,3,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,7,5,9,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,7,5,10,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",13,13,0,0,1.0,0.0,0.0,13,0,diffusive,1.0,other,diffusive
+single,7,5,11,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,7,5,15,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,7,5,25,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",12,12,0,0,1.0,0.0,0.0,12,0,diffusive,1.0,other,diffusive
+single,7,5,33,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",18,18,0,0,1.0,0.0,0.0,18,0,diffusive,1.0,other,diffusive
+single,7,5,36,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",14,14,0,0,1.0,0.0,0.0,14,0,diffusive,1.0,other,diffusive
+single,7,5,38,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",11,11,0,0,1.0,0.0,0.0,11,0,diffusive,1.0,other,diffusive
+single,7,5,40,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",10,10,0,0,1.0,0.0,0.0,10,0,diffusive,1.0,other,diffusive
+single,7,5,42,False,reject_single_dominant_not_allowed,"dominant=diffusive, allowed=constrained",16,16,0,0,1.0,0.0,0.0,16,0,diffusive,1.0,other,diffusive
+multi,1,1,1,False,reject_constraint_diffusion,"frac_constrained=0.562, max_consecutive_diffusive=4",16,7,9,0,0.4375,0.5625,0.0,4,1,constrained,0.5625,constraint_diffusion,"diffusive,constrained"
+multi,1,1,4,False,reject_all_three,"frac_constrained=0.025, max_consecutive_diffusive=6",159,6,4,149,0.03773584905660377,0.025157232704402517,0.9371069182389937,6,2,bound,0.9371069182389937,all_three,"diffusive,constrained,bound"
+multi,1,1,9,True,multi_bound_constraint,frac_constrained=0.357 >= 0.150,14,0,5,9,0.0,0.35714285714285715,0.6428571428571429,0,2,bound,0.6428571428571429,bound_constraint,"constrained,bound"
+multi,1,1,11,False,reject_constraint_diffusion,"frac_constrained=0.794, max_consecutive_diffusive=7",34,7,27,0,0.20588235294117646,0.7941176470588235,0.0,7,1,constrained,0.7941176470588235,constraint_diffusion,"diffusive,constrained"
+multi,1,1,18,True,multi_all_three,frac_constrained=0.426 > 0.150; max_consecutive_diffusive=3 < 4,54,3,23,28,0.05555555555555555,0.42592592592592593,0.5185185185185185,3,2,bound,0.5185185185185185,all_three,"diffusive,constrained,bound"
+multi,1,1,19,False,reject_constraint_diffusion,"frac_constrained=0.609, max_consecutive_diffusive=6",23,9,14,0,0.391304347826087,0.6086956521739131,0.0,6,1,constrained,0.6086956521739131,constraint_diffusion,"diffusive,constrained"
+multi,1,1,32,False,reject_constraint_diffusion,"frac_constrained=0.286, max_consecutive_diffusive=6",14,10,4,0,0.7142857142857143,0.2857142857142857,0.0,6,0,diffusive,0.7142857142857143,constraint_diffusion,"diffusive,constrained"
+multi,1,2,9,False,reject_constraint_diffusion,"frac_constrained=0.333, max_consecutive_diffusive=15",36,24,12,0,0.6666666666666666,0.3333333333333333,0.0,15,0,diffusive,0.6666666666666666,constraint_diffusion,"diffusive,constrained"
+multi,1,2,10,False,reject_constraint_diffusion,"frac_constrained=0.485, max_consecutive_diffusive=5",33,17,16,0,0.5151515151515151,0.48484848484848486,0.0,5,0,diffusive,0.5151515151515151,constraint_diffusion,"diffusive,constrained"
+multi,1,2,48,False,reject_constraint_diffusion,"frac_constrained=0.231, max_consecutive_diffusive=10",13,10,3,0,0.7692307692307693,0.23076923076923078,0.0,10,0,diffusive,0.7692307692307693,constraint_diffusion,"diffusive,constrained"
+multi,1,2,60,False,reject_constraint_diffusion,"frac_constrained=0.769, max_consecutive_diffusive=6",26,6,20,0,0.23076923076923078,0.7692307692307693,0.0,6,1,constrained,0.7692307692307693,constraint_diffusion,"diffusive,constrained"
+multi,1,2,64,False,reject_all_three,"frac_constrained=0.294, max_consecutive_diffusive=5",17,8,5,4,0.47058823529411764,0.29411764705882354,0.23529411764705882,5,0,diffusive,0.47058823529411764,all_three,"diffusive,constrained,bound"
+multi,1,2,65,False,reject_constraint_diffusion,"frac_constrained=0.757, max_consecutive_diffusive=6",37,9,28,0,0.24324324324324326,0.7567567567567568,0.0,6,1,constrained,0.7567567567567568,constraint_diffusion,"diffusive,constrained"
+multi,1,2,67,False,reject_constraint_diffusion,"frac_constrained=0.235, max_consecutive_diffusive=8",17,13,4,0,0.7647058823529411,0.23529411764705882,0.0,8,0,diffusive,0.7647058823529411,constraint_diffusion,"diffusive,constrained"
+multi,1,2,68,True,multi_constraint_diffusion,frac_constrained=0.842 >= 0.300; max_consecutive_diffusive=3 < 4,38,6,32,0,0.15789473684210525,0.8421052631578947,0.0,3,1,constrained,0.8421052631578947,constraint_diffusion,"diffusive,constrained"
+multi,1,2,75,False,reject_constraint_diffusion,"frac_constrained=0.667, max_consecutive_diffusive=5",15,5,10,0,0.3333333333333333,0.6666666666666666,0.0,5,1,constrained,0.6666666666666666,constraint_diffusion,"diffusive,constrained"
+multi,1,2,76,False,reject_constraint_diffusion,"frac_constrained=0.429, max_consecutive_diffusive=8",14,8,6,0,0.5714285714285714,0.42857142857142855,0.0,8,0,diffusive,0.5714285714285714,constraint_diffusion,"diffusive,constrained"
+multi,1,2,85,True,multi_bound_constraint,frac_constrained=0.579 >= 0.150,57,0,33,24,0.0,0.5789473684210527,0.42105263157894735,0,1,constrained,0.5789473684210527,bound_constraint,"constrained,bound"
+multi,1,2,86,False,reject_constraint_diffusion,"frac_constrained=0.273, max_consecutive_diffusive=24",55,40,15,0,0.7272727272727273,0.2727272727272727,0.0,24,0,diffusive,0.7272727272727273,constraint_diffusion,"diffusive,constrained"
+multi,1,2,92,False,reject_constraint_diffusion,"frac_constrained=0.237, max_consecutive_diffusive=11",38,29,9,0,0.7631578947368421,0.23684210526315788,0.0,11,0,diffusive,0.7631578947368421,constraint_diffusion,"diffusive,constrained"
+multi,1,2,96,False,reject_constraint_diffusion,"frac_constrained=0.273, max_consecutive_diffusive=8",11,8,3,0,0.7272727272727273,0.2727272727272727,0.0,8,0,diffusive,0.7272727272727273,constraint_diffusion,"diffusive,constrained"
+multi,1,2,101,True,multi_constraint_diffusion,frac_constrained=0.893 >= 0.300; max_consecutive_diffusive=3 < 4,28,3,25,0,0.10714285714285714,0.8928571428571429,0.0,3,1,constrained,0.8928571428571429,constraint_diffusion,"diffusive,constrained"
+multi,1,2,108,True,multi_constraint_diffusion,frac_constrained=0.864 >= 0.300; max_consecutive_diffusive=3 < 4,22,3,19,0,0.13636363636363635,0.8636363636363636,0.0,3,1,constrained,0.8636363636363636,constraint_diffusion,"diffusive,constrained"
+multi,1,2,134,True,multi_all_three,frac_constrained=0.676 > 0.150; max_consecutive_diffusive=3 < 4,68,3,46,19,0.04411764705882353,0.6764705882352942,0.27941176470588236,3,1,constrained,0.6764705882352942,all_three,"diffusive,constrained,bound"
+multi,1,2,135,True,multi_constraint_diffusion,frac_constrained=0.786 >= 0.300; max_consecutive_diffusive=3 < 4,14,3,11,0,0.21428571428571427,0.7857142857142857,0.0,3,1,constrained,0.7857142857142857,constraint_diffusion,"diffusive,constrained"
+multi,1,2,145,True,multi_bound_constraint,frac_constrained=0.381 >= 0.150,21,0,8,13,0.0,0.38095238095238093,0.6190476190476191,0,2,bound,0.6190476190476191,bound_constraint,"constrained,bound"
+multi,1,2,149,True,multi_constraint_diffusion,frac_constrained=0.769 >= 0.300; max_consecutive_diffusive=3 < 4,13,3,10,0,0.23076923076923078,0.7692307692307693,0.0,3,1,constrained,0.7692307692307693,constraint_diffusion,"diffusive,constrained"
+multi,1,2,163,False,reject_constraint_diffusion,"frac_constrained=0.462, max_consecutive_diffusive=7",13,7,6,0,0.5384615384615384,0.46153846153846156,0.0,7,0,diffusive,0.5384615384615384,constraint_diffusion,"diffusive,constrained"
+multi,1,2,171,False,reject_constraint_diffusion,"frac_constrained=0.600, max_consecutive_diffusive=4",10,4,6,0,0.4,0.6,0.0,4,1,constrained,0.6,constraint_diffusion,"diffusive,constrained"
+multi,1,2,188,False,reject_all_three,"frac_constrained=0.133, max_consecutive_diffusive=3",15,3,2,10,0.2,0.13333333333333333,0.6666666666666666,3,2,bound,0.6666666666666666,all_three,"diffusive,constrained,bound"
+multi,1,2,191,True,multi_bound_constraint,frac_constrained=0.292 >= 0.150,48,0,14,34,0.0,0.2916666666666667,0.7083333333333334,0,2,bound,0.7083333333333334,bound_constraint,"constrained,bound"
+multi,1,3,5,False,reject_all_three,"frac_constrained=0.833, max_consecutive_diffusive=5",84,5,70,9,0.05952380952380952,0.8333333333333334,0.10714285714285714,5,1,constrained,0.8333333333333334,all_three,"diffusive,constrained,bound"
+multi,1,3,7,False,reject_constraint_diffusion,"frac_constrained=0.583, max_consecutive_diffusive=5",12,5,7,0,0.4166666666666667,0.5833333333333334,0.0,5,1,constrained,0.5833333333333334,constraint_diffusion,"diffusive,constrained"
+multi,1,3,15,True,multi_constraint_diffusion,frac_constrained=0.800 >= 0.300; max_consecutive_diffusive=3 < 4,15,3,12,0,0.2,0.8,0.0,3,1,constrained,0.8,constraint_diffusion,"diffusive,constrained"
+multi,1,3,23,False,reject_all_three,"frac_constrained=0.236, max_consecutive_diffusive=10",55,13,13,29,0.23636363636363636,0.23636363636363636,0.5272727272727272,10,2,bound,0.5272727272727272,all_three,"diffusive,constrained,bound"
+multi,1,3,26,False,reject_constraint_diffusion,"frac_constrained=0.600, max_consecutive_diffusive=4",10,4,6,0,0.4,0.6,0.0,4,1,constrained,0.6,constraint_diffusion,"diffusive,constrained"
+multi,1,3,32,False,reject_constraint_diffusion,"frac_constrained=0.438, max_consecutive_diffusive=9",16,9,7,0,0.5625,0.4375,0.0,9,0,diffusive,0.5625,constraint_diffusion,"diffusive,constrained"
+multi,1,3,58,False,reject_all_three,"frac_constrained=0.582, max_consecutive_diffusive=15",67,15,39,13,0.22388059701492538,0.582089552238806,0.19402985074626866,15,1,constrained,0.582089552238806,all_three,"diffusive,constrained,bound"
+multi,1,3,60,False,reject_constraint_diffusion,"frac_constrained=0.667, max_consecutive_diffusive=4",12,4,8,0,0.3333333333333333,0.6666666666666666,0.0,4,1,constrained,0.6666666666666666,constraint_diffusion,"diffusive,constrained"
+multi,1,3,62,False,reject_constraint_diffusion,"frac_constrained=0.231, max_consecutive_diffusive=10",13,10,3,0,0.7692307692307693,0.23076923076923078,0.0,10,0,diffusive,0.7692307692307693,constraint_diffusion,"diffusive,constrained"
+multi,1,3,65,True,multi_bound_constraint,frac_constrained=0.655 >= 0.150,55,0,36,19,0.0,0.6545454545454545,0.34545454545454546,0,1,constrained,0.6545454545454545,bound_constraint,"constrained,bound"
+multi,1,3,66,True,multi_bound_constraint,frac_constrained=0.260 >= 0.150,127,0,33,94,0.0,0.25984251968503935,0.7401574803149606,0,2,bound,0.7401574803149606,bound_constraint,"constrained,bound"
+multi,1,3,76,False,reject_constraint_diffusion,"frac_constrained=0.480, max_consecutive_diffusive=8",25,13,12,0,0.52,0.48,0.0,8,0,diffusive,0.52,constraint_diffusion,"diffusive,constrained"
+multi,1,3,80,False,reject_constraint_diffusion,"frac_constrained=0.609, max_consecutive_diffusive=5",23,9,14,0,0.391304347826087,0.6086956521739131,0.0,5,1,constrained,0.6086956521739131,constraint_diffusion,"diffusive,constrained"
+multi,1,3,84,False,reject_constraint_diffusion,"frac_constrained=0.120, max_consecutive_diffusive=16",25,22,3,0,0.88,0.12,0.0,16,0,diffusive,0.88,constraint_diffusion,"diffusive,constrained"
+multi,1,3,89,False,reject_constraint_diffusion,"frac_constrained=0.317, max_consecutive_diffusive=17",63,43,20,0,0.6825396825396826,0.31746031746031744,0.0,17,0,diffusive,0.6825396825396826,constraint_diffusion,"diffusive,constrained"
+multi,1,3,94,False,reject_constraint_diffusion,"frac_constrained=0.396, max_consecutive_diffusive=12",53,32,21,0,0.6037735849056604,0.39622641509433965,0.0,12,0,diffusive,0.6037735849056604,constraint_diffusion,"diffusive,constrained"
+multi,1,3,102,False,reject_constraint_diffusion,"frac_constrained=0.273, max_consecutive_diffusive=8",11,8,3,0,0.7272727272727273,0.2727272727272727,0.0,8,0,diffusive,0.7272727272727273,constraint_diffusion,"diffusive,constrained"
+multi,2,1,1,False,reject_all_three,"frac_constrained=0.176, max_consecutive_diffusive=8",91,8,16,67,0.08791208791208792,0.17582417582417584,0.7362637362637363,8,2,bound,0.7362637362637363,all_three,"diffusive,constrained,bound"
+multi,2,1,3,True,multi_all_three,frac_constrained=0.625 > 0.150; max_consecutive_diffusive=3 < 4,56,3,35,18,0.05357142857142857,0.625,0.32142857142857145,3,1,constrained,0.625,all_three,"diffusive,constrained,bound"
+multi,2,1,11,False,reject_constraint_diffusion,"frac_constrained=0.778, max_consecutive_diffusive=4",18,4,14,0,0.2222222222222222,0.7777777777777778,0.0,4,1,constrained,0.7777777777777778,constraint_diffusion,"diffusive,constrained"
+multi,2,1,19,True,multi_constraint_diffusion,frac_constrained=0.750 >= 0.300; max_consecutive_diffusive=3 < 4,12,3,9,0,0.25,0.75,0.0,3,1,constrained,0.75,constraint_diffusion,"diffusive,constrained"
+multi,2,1,21,False,reject_constraint_diffusion,"frac_constrained=0.462, max_consecutive_diffusive=7",13,7,6,0,0.5384615384615384,0.46153846153846156,0.0,7,0,diffusive,0.5384615384615384,constraint_diffusion,"diffusive,constrained"
+multi,2,1,24,True,multi_bound_constraint,frac_constrained=0.610 >= 0.150,105,0,64,41,0.0,0.6095238095238096,0.3904761904761905,0,1,constrained,0.6095238095238096,bound_constraint,"constrained,bound"
+multi,2,1,34,False,reject_constraint_diffusion,"frac_constrained=0.571, max_consecutive_diffusive=9",21,9,12,0,0.42857142857142855,0.5714285714285714,0.0,9,1,constrained,0.5714285714285714,constraint_diffusion,"diffusive,constrained"
+multi,2,1,38,True,multi_bound_constraint,frac_constrained=0.412 >= 0.150,34,0,14,20,0.0,0.4117647058823529,0.5882352941176471,0,2,bound,0.5882352941176471,bound_constraint,"constrained,bound"
+multi,2,1,40,True,multi_constraint_diffusion,frac_constrained=0.769 >= 0.300; max_consecutive_diffusive=3 < 4,13,3,10,0,0.23076923076923078,0.7692307692307693,0.0,3,1,constrained,0.7692307692307693,constraint_diffusion,"diffusive,constrained"
+multi,2,1,58,False,reject_all_three,"frac_constrained=0.388, max_consecutive_diffusive=10",49,23,19,7,0.46938775510204084,0.3877551020408163,0.14285714285714285,10,0,diffusive,0.46938775510204084,all_three,"diffusive,constrained,bound"
+multi,2,1,72,True,multi_bound_constraint,frac_constrained=0.579 >= 0.150,19,0,11,8,0.0,0.5789473684210527,0.42105263157894735,0,1,constrained,0.5789473684210527,bound_constraint,"constrained,bound"
+multi,2,1,75,False,reject_bound_constraint_low_constrained,frac_constrained=0.103 < 0.150,39,0,4,35,0.0,0.10256410256410256,0.8974358974358975,0,2,bound,0.8974358974358975,bound_constraint,"constrained,bound"
+multi,2,1,106,True,multi_bound_constraint,frac_constrained=0.733 >= 0.150,15,0,11,4,0.0,0.7333333333333333,0.26666666666666666,0,1,constrained,0.7333333333333333,bound_constraint,"constrained,bound"
+multi,2,1,111,True,multi_constraint_diffusion,frac_constrained=0.700 >= 0.300; max_consecutive_diffusive=3 < 4,10,3,7,0,0.3,0.7,0.0,3,1,constrained,0.7,constraint_diffusion,"diffusive,constrained"
+multi,2,1,113,True,multi_constraint_diffusion,frac_constrained=0.897 >= 0.300; max_consecutive_diffusive=3 < 4,29,3,26,0,0.10344827586206896,0.896551724137931,0.0,3,1,constrained,0.896551724137931,constraint_diffusion,"diffusive,constrained"
+multi,2,1,115,False,reject_constraint_diffusion,"frac_constrained=0.267, max_consecutive_diffusive=7",15,11,4,0,0.7333333333333333,0.26666666666666666,0.0,7,0,diffusive,0.7333333333333333,constraint_diffusion,"diffusive,constrained"
+multi,2,1,120,True,multi_bound_constraint,frac_constrained=0.255 >= 0.150,106,0,27,79,0.0,0.25471698113207547,0.7452830188679245,0,2,bound,0.7452830188679245,bound_constraint,"constrained,bound"
+multi,2,2,1,True,multi_bound_constraint,frac_constrained=0.735 >= 0.150,83,0,61,22,0.0,0.7349397590361446,0.26506024096385544,0,1,constrained,0.7349397590361446,bound_constraint,"constrained,bound"
+multi,2,2,15,True,multi_bound_constraint,frac_constrained=0.455 >= 0.150,33,0,15,18,0.0,0.45454545454545453,0.5454545454545454,0,2,bound,0.5454545454545454,bound_constraint,"constrained,bound"
+multi,2,2,30,False,reject_constraint_diffusion,"frac_constrained=0.600, max_consecutive_diffusive=4",10,4,6,0,0.4,0.6,0.0,4,1,constrained,0.6,constraint_diffusion,"diffusive,constrained"
+multi,2,2,42,True,multi_constraint_diffusion,frac_constrained=0.800 >= 0.300; max_consecutive_diffusive=3 < 4,15,3,12,0,0.2,0.8,0.0,3,1,constrained,0.8,constraint_diffusion,"diffusive,constrained"
+multi,2,2,47,True,multi_constraint_diffusion,frac_constrained=0.750 >= 0.300; max_consecutive_diffusive=3 < 4,12,3,9,0,0.25,0.75,0.0,3,1,constrained,0.75,constraint_diffusion,"diffusive,constrained"
+multi,2,2,57,False,reject_constraint_diffusion,"frac_constrained=0.471, max_consecutive_diffusive=9",17,9,8,0,0.5294117647058824,0.47058823529411764,0.0,9,0,diffusive,0.5294117647058824,constraint_diffusion,"diffusive,constrained"
+multi,2,2,73,False,reject_constraint_diffusion,"frac_constrained=0.500, max_consecutive_diffusive=6",22,11,11,0,0.5,0.5,0.0,6,1,constrained,0.5,constraint_diffusion,"diffusive,constrained"
+multi,2,2,76,True,multi_bound_constraint,frac_constrained=0.152 >= 0.150,99,0,15,84,0.0,0.15151515151515152,0.8484848484848485,0,2,bound,0.8484848484848485,bound_constraint,"constrained,bound"
+multi,2,2,94,False,reject_all_three,"frac_constrained=0.500, max_consecutive_diffusive=4",28,7,14,7,0.25,0.5,0.25,4,1,constrained,0.5,all_three,"diffusive,constrained,bound"
+multi,2,2,101,False,reject_constraint_diffusion,"frac_constrained=0.438, max_consecutive_diffusive=5",16,9,7,0,0.5625,0.4375,0.0,5,0,diffusive,0.5625,constraint_diffusion,"diffusive,constrained"
+multi,2,2,102,False,reject_constraint_diffusion,"frac_constrained=0.125, max_consecutive_diffusive=15",32,28,4,0,0.875,0.125,0.0,15,0,diffusive,0.875,constraint_diffusion,"diffusive,constrained"
+multi,2,2,114,False,reject_constraint_diffusion,"frac_constrained=0.300, max_consecutive_diffusive=7",10,7,3,0,0.7,0.3,0.0,7,0,diffusive,0.7,constraint_diffusion,"diffusive,constrained"
+multi,2,2,118,False,reject_constraint_diffusion,"frac_constrained=0.500, max_consecutive_diffusive=5",10,5,5,0,0.5,0.5,0.0,5,1,constrained,0.5,constraint_diffusion,"diffusive,constrained"
+multi,2,3,3,False,reject_all_three,"frac_constrained=0.269, max_consecutive_diffusive=24",67,24,18,25,0.3582089552238806,0.26865671641791045,0.373134328358209,24,2,bound,0.373134328358209,all_three,"diffusive,constrained,bound"
+multi,2,3,4,False,reject_constraint_diffusion,"frac_constrained=0.667, max_consecutive_diffusive=4",12,4,8,0,0.3333333333333333,0.6666666666666666,0.0,4,1,constrained,0.6666666666666666,constraint_diffusion,"diffusive,constrained"
+multi,2,3,5,False,reject_constraint_diffusion,"frac_constrained=0.650, max_consecutive_diffusive=4",20,7,13,0,0.35,0.65,0.0,4,1,constrained,0.65,constraint_diffusion,"diffusive,constrained"
+multi,2,3,16,False,reject_constraint_diffusion,"frac_constrained=0.610, max_consecutive_diffusive=8",41,16,25,0,0.3902439024390244,0.6097560975609756,0.0,8,1,constrained,0.6097560975609756,constraint_diffusion,"diffusive,constrained"
+multi,2,3,17,True,multi_bound_constraint,frac_constrained=0.525 >= 0.150,40,0,21,19,0.0,0.525,0.475,0,1,constrained,0.525,bound_constraint,"constrained,bound"
+multi,2,3,53,False,reject_constraint_diffusion,"frac_constrained=0.639, max_consecutive_diffusive=7",36,13,23,0,0.3611111111111111,0.6388888888888888,0.0,7,1,constrained,0.6388888888888888,constraint_diffusion,"diffusive,constrained"
+multi,2,3,55,False,reject_constraint_diffusion,"frac_constrained=0.545, max_consecutive_diffusive=5",11,5,6,0,0.45454545454545453,0.5454545454545454,0.0,5,1,constrained,0.5454545454545454,constraint_diffusion,"diffusive,constrained"
+multi,2,3,62,False,reject_constraint_diffusion,"frac_constrained=0.385, max_consecutive_diffusive=4",13,8,5,0,0.6153846153846154,0.38461538461538464,0.0,4,0,diffusive,0.6153846153846154,constraint_diffusion,"diffusive,constrained"
+multi,2,3,68,True,multi_bound_constraint,frac_constrained=0.924 >= 0.150,66,0,61,5,0.0,0.9242424242424242,0.07575757575757576,0,1,constrained,0.9242424242424242,bound_constraint,"constrained,bound"
+multi,2,3,72,True,multi_constraint_diffusion,frac_constrained=0.833 >= 0.300; max_consecutive_diffusive=3 < 4,18,3,15,0,0.16666666666666666,0.8333333333333334,0.0,3,1,constrained,0.8333333333333334,constraint_diffusion,"diffusive,constrained"
+multi,3,1,7,False,reject_constraint_diffusion,"frac_constrained=0.103, max_consecutive_diffusive=19",29,26,3,0,0.896551724137931,0.10344827586206896,0.0,19,0,diffusive,0.896551724137931,constraint_diffusion,"diffusive,constrained"
+multi,3,1,13,False,reject_constraint_diffusion,"frac_constrained=0.273, max_consecutive_diffusive=8",11,8,3,0,0.7272727272727273,0.2727272727272727,0.0,8,0,diffusive,0.7272727272727273,constraint_diffusion,"diffusive,constrained"
+multi,3,1,26,False,reject_constraint_diffusion,"frac_constrained=0.647, max_consecutive_diffusive=6",17,6,11,0,0.35294117647058826,0.6470588235294118,0.0,6,1,constrained,0.6470588235294118,constraint_diffusion,"diffusive,constrained"
+multi,3,1,66,False,reject_constraint_diffusion,"frac_constrained=0.357, max_consecutive_diffusive=9",14,9,5,0,0.6428571428571429,0.35714285714285715,0.0,9,0,diffusive,0.6428571428571429,constraint_diffusion,"diffusive,constrained"
+multi,3,1,68,True,multi_bound_constraint,frac_constrained=0.297 >= 0.150,101,0,30,71,0.0,0.297029702970297,0.7029702970297029,0,2,bound,0.7029702970297029,bound_constraint,"constrained,bound"
+multi,3,1,69,False,reject_all_three,"frac_constrained=0.452, max_consecutive_diffusive=5",31,8,14,9,0.25806451612903225,0.45161290322580644,0.2903225806451613,5,1,constrained,0.45161290322580644,all_three,"diffusive,constrained,bound"
+multi,3,1,70,False,reject_constraint_diffusion,"frac_constrained=0.462, max_consecutive_diffusive=7",13,7,6,0,0.5384615384615384,0.46153846153846156,0.0,7,0,diffusive,0.5384615384615384,constraint_diffusion,"diffusive,constrained"
+multi,3,1,72,False,reject_constraint_diffusion,"frac_constrained=0.222, max_consecutive_diffusive=9",18,14,4,0,0.7777777777777778,0.2222222222222222,0.0,9,0,diffusive,0.7777777777777778,constraint_diffusion,"diffusive,constrained"
+multi,3,1,117,False,reject_constraint_diffusion,"frac_constrained=0.300, max_consecutive_diffusive=7",10,7,3,0,0.7,0.3,0.0,7,0,diffusive,0.7,constraint_diffusion,"diffusive,constrained"
+multi,3,1,131,True,multi_bound_constraint,frac_constrained=0.360 >= 0.150,25,0,9,16,0.0,0.36,0.64,0,2,bound,0.64,bound_constraint,"constrained,bound"
+multi,3,1,135,False,reject_constraint_diffusion,"frac_constrained=0.647, max_consecutive_diffusive=6",17,6,11,0,0.35294117647058826,0.6470588235294118,0.0,6,1,constrained,0.6470588235294118,constraint_diffusion,"diffusive,constrained"
+multi,3,2,16,True,multi_bound_constraint,frac_constrained=0.550 >= 0.150,20,0,11,9,0.0,0.55,0.45,0,1,constrained,0.55,bound_constraint,"constrained,bound"
+multi,3,2,18,False,reject_all_three,"frac_constrained=0.776, max_consecutive_diffusive=4",85,4,66,15,0.047058823529411764,0.7764705882352941,0.17647058823529413,4,1,constrained,0.7764705882352941,all_three,"diffusive,constrained,bound"
+multi,3,2,22,True,multi_bound_constraint,frac_constrained=0.875 >= 0.150,32,0,28,4,0.0,0.875,0.125,0,1,constrained,0.875,bound_constraint,"constrained,bound"
+multi,3,2,35,False,reject_constraint_diffusion,"frac_constrained=0.652, max_consecutive_diffusive=4",23,8,15,0,0.34782608695652173,0.6521739130434783,0.0,4,1,constrained,0.6521739130434783,constraint_diffusion,"diffusive,constrained"
+multi,3,2,36,False,reject_constraint_diffusion,"frac_constrained=0.471, max_consecutive_diffusive=6",17,9,8,0,0.5294117647058824,0.47058823529411764,0.0,6,0,diffusive,0.5294117647058824,constraint_diffusion,"diffusive,constrained"
+multi,3,2,37,False,reject_constraint_diffusion,"frac_constrained=0.214, max_consecutive_diffusive=8",14,11,3,0,0.7857142857142857,0.21428571428571427,0.0,8,0,diffusive,0.7857142857142857,constraint_diffusion,"diffusive,constrained"
+multi,3,2,44,True,multi_constraint_diffusion,frac_constrained=0.806 >= 0.300; max_consecutive_diffusive=3 < 4,31,6,25,0,0.1935483870967742,0.8064516129032258,0.0,3,1,constrained,0.8064516129032258,constraint_diffusion,"diffusive,constrained"
+multi,3,2,68,True,multi_bound_constraint,frac_constrained=0.862 >= 0.150,29,0,25,4,0.0,0.8620689655172413,0.13793103448275862,0,1,constrained,0.8620689655172413,bound_constraint,"constrained,bound"
+multi,3,2,71,True,multi_bound_constraint,frac_constrained=0.512 >= 0.150,41,0,21,20,0.0,0.5121951219512195,0.4878048780487805,0,1,constrained,0.5121951219512195,bound_constraint,"constrained,bound"
+multi,3,2,75,True,multi_all_three,frac_constrained=0.476 > 0.150; max_consecutive_diffusive=3 < 4,21,3,10,8,0.14285714285714285,0.47619047619047616,0.38095238095238093,3,1,constrained,0.47619047619047616,all_three,"diffusive,constrained,bound"
+multi,3,2,76,False,reject_all_three,"frac_constrained=0.667, max_consecutive_diffusive=4",33,4,22,7,0.12121212121212122,0.6666666666666666,0.21212121212121213,4,1,constrained,0.6666666666666666,all_three,"diffusive,constrained,bound"
+multi,3,2,83,False,reject_constraint_diffusion,"frac_constrained=0.600, max_consecutive_diffusive=4",10,4,6,0,0.4,0.6,0.0,4,1,constrained,0.6,constraint_diffusion,"diffusive,constrained"
+multi,3,2,101,False,reject_all_three,"frac_constrained=0.280, max_consecutive_diffusive=8",50,15,14,21,0.3,0.28,0.42,8,2,bound,0.42,all_three,"diffusive,constrained,bound"
+multi,3,2,105,False,reject_constraint_diffusion,"frac_constrained=0.156, max_consecutive_diffusive=15",45,38,7,0,0.8444444444444444,0.15555555555555556,0.0,15,0,diffusive,0.8444444444444444,constraint_diffusion,"diffusive,constrained"
+multi,3,2,115,False,reject_constraint_diffusion,"frac_constrained=0.667, max_consecutive_diffusive=6",18,6,12,0,0.3333333333333333,0.6666666666666666,0.0,6,1,constrained,0.6666666666666666,constraint_diffusion,"diffusive,constrained"
+multi,3,2,116,True,multi_constraint_diffusion,frac_constrained=0.800 >= 0.300; max_consecutive_diffusive=3 < 4,15,3,12,0,0.2,0.8,0.0,3,1,constrained,0.8,constraint_diffusion,"diffusive,constrained"
+multi,3,2,118,True,multi_bound_constraint,frac_constrained=0.382 >= 0.150,34,0,13,21,0.0,0.38235294117647056,0.6176470588235294,0,2,bound,0.6176470588235294,bound_constraint,"constrained,bound"
+multi,3,2,126,False,reject_constraint_diffusion,"frac_constrained=0.667, max_consecutive_diffusive=4",12,4,8,0,0.3333333333333333,0.6666666666666666,0.0,4,1,constrained,0.6666666666666666,constraint_diffusion,"diffusive,constrained"
+multi,3,2,128,True,multi_bound_constraint,frac_constrained=0.421 >= 0.150,38,0,16,22,0.0,0.42105263157894735,0.5789473684210527,0,2,bound,0.5789473684210527,bound_constraint,"constrained,bound"
+multi,3,2,129,True,multi_bound_constraint,frac_constrained=0.333 >= 0.150,18,0,6,12,0.0,0.3333333333333333,0.6666666666666666,0,2,bound,0.6666666666666666,bound_constraint,"constrained,bound"
+multi,3,2,132,True,multi_bound_constraint,frac_constrained=0.250 >= 0.150,12,0,3,9,0.0,0.25,0.75,0,2,bound,0.75,bound_constraint,"constrained,bound"
+multi,4,1,5,False,reject_constraint_diffusion,"frac_constrained=0.273, max_consecutive_diffusive=8",11,8,3,0,0.7272727272727273,0.2727272727272727,0.0,8,0,diffusive,0.7272727272727273,constraint_diffusion,"diffusive,constrained"
+multi,5,1,1,False,reject_constraint_diffusion,"frac_constrained=0.225, max_consecutive_diffusive=11",40,31,9,0,0.775,0.225,0.0,11,0,diffusive,0.775,constraint_diffusion,"diffusive,constrained"
+multi,5,1,3,False,reject_constraint_diffusion,"frac_constrained=0.281, max_consecutive_diffusive=11",32,23,9,0,0.71875,0.28125,0.0,11,0,diffusive,0.71875,constraint_diffusion,"diffusive,constrained"
+multi,5,1,4,False,reject_constraint_diffusion,"frac_constrained=0.583, max_consecutive_diffusive=5",12,5,7,0,0.4166666666666667,0.5833333333333334,0.0,5,1,constrained,0.5833333333333334,constraint_diffusion,"diffusive,constrained"
+multi,5,1,7,True,multi_constraint_diffusion,frac_constrained=0.750 >= 0.300; max_consecutive_diffusive=3 < 4,12,3,9,0,0.25,0.75,0.0,3,1,constrained,0.75,constraint_diffusion,"diffusive,constrained"
+multi,5,1,10,False,reject_constraint_diffusion,"frac_constrained=0.250, max_consecutive_diffusive=9",12,9,3,0,0.75,0.25,0.0,9,0,diffusive,0.75,constraint_diffusion,"diffusive,constrained"
+multi,5,1,35,False,reject_constraint_diffusion,"frac_constrained=0.564, max_consecutive_diffusive=7",39,17,22,0,0.4358974358974359,0.5641025641025641,0.0,7,1,constrained,0.5641025641025641,constraint_diffusion,"diffusive,constrained"
+multi,5,1,37,False,reject_constraint_diffusion,"frac_constrained=0.250, max_consecutive_diffusive=17",28,21,7,0,0.75,0.25,0.0,17,0,diffusive,0.75,constraint_diffusion,"diffusive,constrained"
+multi,5,1,46,True,multi_all_three,frac_constrained=0.421 > 0.150; max_consecutive_diffusive=3 < 4,57,3,24,30,0.05263157894736842,0.42105263157894735,0.5263157894736842,3,2,bound,0.5263157894736842,all_three,"diffusive,constrained,bound"
+multi,5,1,55,False,reject_constraint_diffusion,"frac_constrained=0.368, max_consecutive_diffusive=8",19,12,7,0,0.631578947368421,0.3684210526315789,0.0,8,0,diffusive,0.631578947368421,constraint_diffusion,"diffusive,constrained"
+multi,5,1,65,False,reject_constraint_diffusion,"frac_constrained=0.808, max_consecutive_diffusive=5",26,5,21,0,0.19230769230769232,0.8076923076923077,0.0,5,1,constrained,0.8076923076923077,constraint_diffusion,"diffusive,constrained"
+multi,5,2,11,True,multi_bound_constraint,frac_constrained=0.316 >= 0.150,19,0,6,13,0.0,0.3157894736842105,0.6842105263157895,0,2,bound,0.6842105263157895,bound_constraint,"constrained,bound"
+multi,5,2,12,False,reject_constraint_diffusion,"frac_constrained=0.300, max_consecutive_diffusive=7",10,7,3,0,0.7,0.3,0.0,7,0,diffusive,0.7,constraint_diffusion,"diffusive,constrained"
+multi,5,2,13,True,multi_bound_constraint,frac_constrained=0.440 >= 0.150,25,0,11,14,0.0,0.44,0.56,0,2,bound,0.56,bound_constraint,"constrained,bound"
+multi,5,2,15,True,multi_bound_constraint,frac_constrained=0.796 >= 0.150,49,0,39,10,0.0,0.7959183673469388,0.20408163265306123,0,1,constrained,0.7959183673469388,bound_constraint,"constrained,bound"
+multi,5,2,21,True,multi_bound_constraint,frac_constrained=0.429 >= 0.150,21,0,9,12,0.0,0.42857142857142855,0.5714285714285714,0,2,bound,0.5714285714285714,bound_constraint,"constrained,bound"
+multi,5,2,23,False,reject_constraint_diffusion,"frac_constrained=0.417, max_consecutive_diffusive=7",12,7,5,0,0.5833333333333334,0.4166666666666667,0.0,7,0,diffusive,0.5833333333333334,constraint_diffusion,"diffusive,constrained"
+multi,5,3,19,False,reject_constraint_diffusion,"frac_constrained=0.273, max_consecutive_diffusive=8",11,8,3,0,0.7272727272727273,0.2727272727272727,0.0,8,0,diffusive,0.7272727272727273,constraint_diffusion,"diffusive,constrained"
+multi,5,3,26,False,reject_all_three,"frac_constrained=0.538, max_consecutive_diffusive=5",26,8,14,4,0.3076923076923077,0.5384615384615384,0.15384615384615385,5,1,constrained,0.5384615384615384,all_three,"diffusive,constrained,bound"
+multi,5,3,29,False,reject_constraint_diffusion,"frac_constrained=0.381, max_consecutive_diffusive=7",21,13,8,0,0.6190476190476191,0.38095238095238093,0.0,7,0,diffusive,0.6190476190476191,constraint_diffusion,"diffusive,constrained"
+multi,5,3,43,True,multi_bound_constraint,frac_constrained=0.619 >= 0.150,21,0,13,8,0.0,0.6190476190476191,0.38095238095238093,0,1,constrained,0.6190476190476191,bound_constraint,"constrained,bound"
+multi,5,3,66,False,reject_all_three,"frac_constrained=0.368, max_consecutive_diffusive=4",19,7,7,5,0.3684210526315789,0.3684210526315789,0.2631578947368421,4,1,constrained,0.3684210526315789,all_three,"diffusive,constrained,bound"
+multi,5,3,74,True,multi_constraint_diffusion,frac_constrained=0.700 >= 0.300; max_consecutive_diffusive=3 < 4,10,3,7,0,0.3,0.7,0.0,3,1,constrained,0.7,constraint_diffusion,"diffusive,constrained"
+multi,5,3,87,True,multi_all_three,frac_constrained=0.417 > 0.150; max_consecutive_diffusive=3 < 4,12,3,5,4,0.25,0.4166666666666667,0.3333333333333333,3,1,constrained,0.4166666666666667,all_three,"diffusive,constrained,bound"
+multi,5,3,88,True,multi_all_three,frac_constrained=0.689 > 0.150; max_consecutive_diffusive=3 < 4,90,3,62,25,0.03333333333333333,0.6888888888888889,0.2777777777777778,3,1,constrained,0.6888888888888889,all_three,"diffusive,constrained,bound"
+multi,5,3,99,True,multi_bound_constraint,frac_constrained=0.910 >= 0.150,78,0,71,7,0.0,0.9102564102564102,0.08974358974358974,0,1,constrained,0.9102564102564102,bound_constraint,"constrained,bound"
+multi,5,3,100,False,reject_all_three,"frac_constrained=0.293, max_consecutive_diffusive=6",41,6,12,23,0.14634146341463414,0.2926829268292683,0.5609756097560976,6,2,bound,0.5609756097560976,all_three,"diffusive,constrained,bound"
+multi,5,3,102,False,reject_constraint_diffusion,"frac_constrained=0.441, max_consecutive_diffusive=10",34,19,15,0,0.5588235294117647,0.4411764705882353,0.0,10,0,diffusive,0.5588235294117647,constraint_diffusion,"diffusive,constrained"
+multi,5,3,132,False,reject_all_three,"frac_constrained=0.279, max_consecutive_diffusive=4",61,4,17,40,0.06557377049180328,0.2786885245901639,0.6557377049180327,4,2,bound,0.6557377049180327,all_three,"diffusive,constrained,bound"
+multi,5,3,140,False,reject_all_three,"frac_constrained=0.879, max_consecutive_diffusive=5",99,8,87,4,0.08080808080808081,0.8787878787878788,0.04040404040404041,5,1,constrained,0.8787878787878788,all_three,"diffusive,constrained,bound"
+multi,5,3,181,False,reject_all_three,"frac_constrained=0.607, max_consecutive_diffusive=7",28,7,17,4,0.25,0.6071428571428571,0.14285714285714285,7,1,constrained,0.6071428571428571,all_three,"diffusive,constrained,bound"
+multi,5,3,191,True,multi_bound_constraint,frac_constrained=0.776 >= 0.150,49,0,38,11,0.0,0.7755102040816326,0.22448979591836735,0,1,constrained,0.7755102040816326,bound_constraint,"constrained,bound"
+multi,5,3,212,True,multi_bound_constraint,frac_constrained=0.462 >= 0.150,13,0,6,7,0.0,0.46153846153846156,0.5384615384615384,0,2,bound,0.5384615384615384,bound_constraint,"constrained,bound"
+multi,5,3,222,True,multi_bound_constraint,frac_constrained=0.804 >= 0.150,56,0,45,11,0.0,0.8035714285714286,0.19642857142857142,0,1,constrained,0.8035714285714286,bound_constraint,"constrained,bound"
+multi,5,3,231,True,multi_bound_constraint,frac_constrained=0.640 >= 0.150,50,0,32,18,0.0,0.64,0.36,0,1,constrained,0.64,bound_constraint,"constrained,bound"
+multi,5,3,233,False,reject_constraint_diffusion,"frac_constrained=0.826, max_consecutive_diffusive=4",23,4,19,0,0.17391304347826086,0.8260869565217391,0.0,4,1,constrained,0.8260869565217391,constraint_diffusion,"diffusive,constrained"
+multi,5,3,235,True,multi_all_three,frac_constrained=0.841 > 0.150; max_consecutive_diffusive=3 < 4,69,6,58,5,0.08695652173913043,0.8405797101449275,0.07246376811594203,3,1,constrained,0.8405797101449275,all_three,"diffusive,constrained,bound"
+multi,5,4,18,False,reject_all_three,"frac_constrained=0.486, max_consecutive_diffusive=5",35,5,17,13,0.14285714285714285,0.4857142857142857,0.37142857142857144,5,1,constrained,0.4857142857142857,all_three,"diffusive,constrained,bound"
+multi,5,4,24,True,multi_bound_constraint,frac_constrained=0.556 >= 0.150,18,0,10,8,0.0,0.5555555555555556,0.4444444444444444,0,1,constrained,0.5555555555555556,bound_constraint,"constrained,bound"
+multi,5,4,44,False,reject_constraint_diffusion,"frac_constrained=0.214, max_consecutive_diffusive=11",14,11,3,0,0.7857142857142857,0.21428571428571427,0.0,11,0,diffusive,0.7857142857142857,constraint_diffusion,"diffusive,constrained"
+multi,6,1,26,False,reject_constraint_diffusion,"frac_constrained=0.348, max_consecutive_diffusive=9",23,15,8,0,0.6521739130434783,0.34782608695652173,0.0,9,0,diffusive,0.6521739130434783,constraint_diffusion,"diffusive,constrained"
+multi,6,1,39,False,reject_constraint_diffusion,"frac_constrained=0.640, max_consecutive_diffusive=5",25,9,16,0,0.36,0.64,0.0,5,1,constrained,0.64,constraint_diffusion,"diffusive,constrained"
+multi,6,1,72,False,reject_all_three,"frac_constrained=0.154, max_consecutive_diffusive=6",13,6,2,5,0.46153846153846156,0.15384615384615385,0.38461538461538464,6,0,diffusive,0.46153846153846156,all_three,"diffusive,constrained,bound"
+multi,6,2,10,False,reject_constraint_diffusion,"frac_constrained=0.375, max_consecutive_diffusive=7",16,10,6,0,0.625,0.375,0.0,7,0,diffusive,0.625,constraint_diffusion,"diffusive,constrained"
+multi,6,2,11,True,multi_all_three,frac_constrained=0.195 > 0.150; max_consecutive_diffusive=3 < 4,41,6,8,27,0.14634146341463414,0.1951219512195122,0.6585365853658537,3,2,bound,0.6585365853658537,all_three,"diffusive,constrained,bound"
+multi,6,2,15,False,reject_constraint_diffusion,"frac_constrained=0.158, max_consecutive_diffusive=16",19,16,3,0,0.8421052631578947,0.15789473684210525,0.0,16,0,diffusive,0.8421052631578947,constraint_diffusion,"diffusive,constrained"
+multi,6,2,18,False,reject_constraint_diffusion,"frac_constrained=0.600, max_consecutive_diffusive=4",10,4,6,0,0.4,0.6,0.0,4,1,constrained,0.6,constraint_diffusion,"diffusive,constrained"
+multi,6,2,21,False,reject_all_three,"frac_constrained=0.483, max_consecutive_diffusive=14",58,14,28,16,0.2413793103448276,0.4827586206896552,0.27586206896551724,14,1,constrained,0.4827586206896552,all_three,"diffusive,constrained,bound"
+multi,6,2,30,False,reject_constraint_diffusion,"frac_constrained=0.471, max_consecutive_diffusive=6",17,9,8,0,0.5294117647058824,0.47058823529411764,0.0,6,0,diffusive,0.5294117647058824,constraint_diffusion,"diffusive,constrained"
+multi,6,2,38,True,multi_constraint_diffusion,frac_constrained=0.700 >= 0.300; max_consecutive_diffusive=3 < 4,10,3,7,0,0.3,0.7,0.0,3,1,constrained,0.7,constraint_diffusion,"diffusive,constrained"
+multi,6,2,39,False,reject_constraint_diffusion,"frac_constrained=0.600, max_consecutive_diffusive=4",10,4,6,0,0.4,0.6,0.0,4,1,constrained,0.6,constraint_diffusion,"diffusive,constrained"
+multi,6,2,51,False,reject_bound_constraint_low_constrained,frac_constrained=0.125 < 0.150,32,0,4,28,0.0,0.125,0.875,0,2,bound,0.875,bound_constraint,"constrained,bound"
+multi,6,2,56,True,multi_bound_constraint,frac_constrained=0.270 >= 0.150,141,0,38,103,0.0,0.2695035460992908,0.7304964539007093,0,2,bound,0.7304964539007093,bound_constraint,"constrained,bound"
+multi,6,2,63,False,reject_constraint_diffusion,"frac_constrained=0.533, max_consecutive_diffusive=7",15,7,8,0,0.4666666666666667,0.5333333333333333,0.0,7,1,constrained,0.5333333333333333,constraint_diffusion,"diffusive,constrained"
+multi,6,2,64,True,multi_constraint_diffusion,frac_constrained=0.750 >= 0.300; max_consecutive_diffusive=3 < 4,12,3,9,0,0.25,0.75,0.0,3,1,constrained,0.75,constraint_diffusion,"diffusive,constrained"
+multi,6,2,71,False,reject_constraint_diffusion,"frac_constrained=0.593, max_consecutive_diffusive=5",27,11,16,0,0.4074074074074074,0.5925925925925926,0.0,5,1,constrained,0.5925925925925926,constraint_diffusion,"diffusive,constrained"
+multi,6,2,73,True,multi_bound_constraint,frac_constrained=0.565 >= 0.150,46,0,26,20,0.0,0.5652173913043478,0.43478260869565216,0,1,constrained,0.5652173913043478,bound_constraint,"constrained,bound"
+multi,6,2,74,False,reject_constraint_diffusion,"frac_constrained=0.667, max_consecutive_diffusive=4",12,4,8,0,0.3333333333333333,0.6666666666666666,0.0,4,1,constrained,0.6666666666666666,constraint_diffusion,"diffusive,constrained"
+multi,6,2,79,False,reject_constraint_diffusion,"frac_constrained=0.250, max_consecutive_diffusive=9",12,9,3,0,0.75,0.25,0.0,9,0,diffusive,0.75,constraint_diffusion,"diffusive,constrained"
+multi,6,2,80,False,reject_constraint_diffusion,"frac_constrained=0.333, max_consecutive_diffusive=5",12,8,4,0,0.6666666666666666,0.3333333333333333,0.0,5,0,diffusive,0.6666666666666666,constraint_diffusion,"diffusive,constrained"
+multi,6,2,81,False,reject_constraint_diffusion,"frac_constrained=0.275, max_consecutive_diffusive=13",40,29,11,0,0.725,0.275,0.0,13,0,diffusive,0.725,constraint_diffusion,"diffusive,constrained"
+multi,6,2,84,True,multi_bound_constraint,frac_constrained=0.760 >= 0.150,25,0,19,6,0.0,0.76,0.24,0,1,constrained,0.76,bound_constraint,"constrained,bound"
+multi,6,3,20,True,multi_bound_constraint,frac_constrained=0.500 >= 0.150,10,0,5,5,0.0,0.5,0.5,0,2,bound,0.5,bound_constraint,"constrained,bound"
+multi,6,3,21,False,reject_constraint_diffusion,"frac_constrained=0.188, max_consecutive_diffusive=13",16,13,3,0,0.8125,0.1875,0.0,13,0,diffusive,0.8125,constraint_diffusion,"diffusive,constrained"
+multi,6,3,44,False,reject_constraint_diffusion,"frac_constrained=0.559, max_consecutive_diffusive=5",34,15,19,0,0.4411764705882353,0.5588235294117647,0.0,5,1,constrained,0.5588235294117647,constraint_diffusion,"diffusive,constrained"
+multi,6,3,65,True,multi_all_three,frac_constrained=0.682 > 0.150; max_consecutive_diffusive=3 < 4,22,3,15,4,0.13636363636363635,0.6818181818181818,0.18181818181818182,3,1,constrained,0.6818181818181818,all_three,"diffusive,constrained,bound"
+multi,6,3,67,True,multi_constraint_diffusion,frac_constrained=0.786 >= 0.300; max_consecutive_diffusive=3 < 4,14,3,11,0,0.21428571428571427,0.7857142857142857,0.0,3,1,constrained,0.7857142857142857,constraint_diffusion,"diffusive,constrained"
+multi,6,4,8,False,reject_constraint_diffusion,"frac_constrained=0.667, max_consecutive_diffusive=4",12,4,8,0,0.3333333333333333,0.6666666666666666,0.0,4,1,constrained,0.6666666666666666,constraint_diffusion,"diffusive,constrained"
+multi,6,4,25,False,reject_all_three,"frac_constrained=0.613, max_consecutive_diffusive=5",62,5,38,19,0.08064516129032258,0.6129032258064516,0.3064516129032258,5,1,constrained,0.6129032258064516,all_three,"diffusive,constrained,bound"
+multi,6,4,45,False,reject_all_three,"frac_constrained=0.348, max_consecutive_diffusive=4",66,14,23,29,0.21212121212121213,0.3484848484848485,0.4393939393939394,4,2,bound,0.4393939393939394,all_three,"diffusive,constrained,bound"
+multi,6,4,64,True,multi_bound_constraint,frac_constrained=0.412 >= 0.150,51,0,21,30,0.0,0.4117647058823529,0.5882352941176471,0,2,bound,0.5882352941176471,bound_constraint,"constrained,bound"
+multi,6,4,66,False,reject_constraint_diffusion,"frac_constrained=0.273, max_consecutive_diffusive=8",11,8,3,0,0.7272727272727273,0.2727272727272727,0.0,8,0,diffusive,0.7272727272727273,constraint_diffusion,"diffusive,constrained"
+multi,6,4,72,False,reject_constraint_diffusion,"frac_constrained=0.565, max_consecutive_diffusive=10",23,10,13,0,0.43478260869565216,0.5652173913043478,0.0,10,1,constrained,0.5652173913043478,constraint_diffusion,"diffusive,constrained"
+multi,6,4,82,True,multi_constraint_diffusion,frac_constrained=0.786 >= 0.300; max_consecutive_diffusive=3 < 4,14,3,11,0,0.21428571428571427,0.7857142857142857,0.0,3,1,constrained,0.7857142857142857,constraint_diffusion,"diffusive,constrained"
+multi,6,4,91,True,multi_bound_constraint,frac_constrained=0.706 >= 0.150,17,0,12,5,0.0,0.7058823529411765,0.29411764705882354,0,1,constrained,0.7058823529411765,bound_constraint,"constrained,bound"
+multi,6,4,95,True,multi_bound_constraint,frac_constrained=0.310 >= 0.150,29,0,9,20,0.0,0.3103448275862069,0.6896551724137931,0,2,bound,0.6896551724137931,bound_constraint,"constrained,bound"
+multi,6,4,101,True,multi_all_three,frac_constrained=0.200 > 0.150; max_consecutive_diffusive=3 < 4,15,3,3,9,0.2,0.2,0.6,3,2,bound,0.6,all_three,"diffusive,constrained,bound"
+multi,6,4,107,False,reject_constraint_diffusion,"frac_constrained=0.696, max_consecutive_diffusive=7",23,7,16,0,0.30434782608695654,0.6956521739130435,0.0,7,1,constrained,0.6956521739130435,constraint_diffusion,"diffusive,constrained"
+multi,6,4,108,True,multi_bound_constraint,frac_constrained=0.812 >= 0.150,32,0,26,6,0.0,0.8125,0.1875,0,1,constrained,0.8125,bound_constraint,"constrained,bound"
+multi,6,4,118,False,reject_constraint_diffusion,"frac_constrained=0.267, max_consecutive_diffusive=11",15,11,4,0,0.7333333333333333,0.26666666666666666,0.0,11,0,diffusive,0.7333333333333333,constraint_diffusion,"diffusive,constrained"
+multi,6,4,132,False,reject_bound_constraint_low_constrained,frac_constrained=0.107 < 0.150,56,0,6,50,0.0,0.10714285714285714,0.8928571428571429,0,2,bound,0.8928571428571429,bound_constraint,"constrained,bound"
+multi,6,4,143,False,reject_constraint_diffusion,"frac_constrained=0.250, max_consecutive_diffusive=9",12,9,3,0,0.75,0.25,0.0,9,0,diffusive,0.75,constraint_diffusion,"diffusive,constrained"
+multi,7,1,6,False,reject_constraint_diffusion,"frac_constrained=0.200, max_consecutive_diffusive=28",35,28,7,0,0.8,0.2,0.0,28,0,diffusive,0.8,constraint_diffusion,"diffusive,constrained"
+multi,7,1,12,False,reject_constraint_diffusion,"frac_constrained=0.640, max_consecutive_diffusive=6",25,9,16,0,0.36,0.64,0.0,6,1,constrained,0.64,constraint_diffusion,"diffusive,constrained"
+multi,7,1,28,False,reject_all_three,"frac_constrained=0.056, max_consecutive_diffusive=11",36,14,2,20,0.3888888888888889,0.05555555555555555,0.5555555555555556,11,2,bound,0.5555555555555556,all_three,"diffusive,constrained,bound"
+multi,7,1,38,False,reject_bound_constraint_low_constrained,frac_constrained=0.125 < 0.150,24,0,3,21,0.0,0.125,0.875,0,2,bound,0.875,bound_constraint,"constrained,bound"
+multi,7,1,41,True,multi_constraint_diffusion,frac_constrained=0.857 >= 0.300; max_consecutive_diffusive=3 < 4,21,3,18,0,0.14285714285714285,0.8571428571428571,0.0,3,1,constrained,0.8571428571428571,constraint_diffusion,"diffusive,constrained"
+multi,7,1,55,True,multi_constraint_diffusion,frac_constrained=0.743 >= 0.300; max_consecutive_diffusive=3 < 4,35,9,26,0,0.2571428571428571,0.7428571428571429,0.0,3,1,constrained,0.7428571428571429,constraint_diffusion,"diffusive,constrained"
+multi,7,2,11,False,reject_constraint_diffusion,"frac_constrained=0.250, max_consecutive_diffusive=9",12,9,3,0,0.75,0.25,0.0,9,0,diffusive,0.75,constraint_diffusion,"diffusive,constrained"
+multi,7,2,12,True,multi_constraint_diffusion,frac_constrained=0.833 >= 0.300; max_consecutive_diffusive=3 < 4,18,3,15,0,0.16666666666666666,0.8333333333333334,0.0,3,1,constrained,0.8333333333333334,constraint_diffusion,"diffusive,constrained"
+multi,7,2,18,True,multi_bound_constraint,frac_constrained=0.906 >= 0.150,53,0,48,5,0.0,0.9056603773584906,0.09433962264150944,0,1,constrained,0.9056603773584906,bound_constraint,"constrained,bound"
+multi,7,2,22,False,reject_constraint_diffusion,"frac_constrained=0.300, max_consecutive_diffusive=7",10,7,3,0,0.7,0.3,0.0,7,0,diffusive,0.7,constraint_diffusion,"diffusive,constrained"
+multi,7,2,33,False,reject_constraint_diffusion,"frac_constrained=0.278, max_consecutive_diffusive=13",18,13,5,0,0.7222222222222222,0.2777777777777778,0.0,13,0,diffusive,0.7222222222222222,constraint_diffusion,"diffusive,constrained"
+multi,7,3,31,False,reject_constraint_diffusion,"frac_constrained=0.261, max_consecutive_diffusive=24",46,34,12,0,0.7391304347826086,0.2608695652173913,0.0,24,0,diffusive,0.7391304347826086,constraint_diffusion,"diffusive,constrained"
+multi,7,4,4,False,reject_constraint_diffusion,"frac_constrained=0.375, max_consecutive_diffusive=7",16,10,6,0,0.625,0.375,0.0,7,0,diffusive,0.625,constraint_diffusion,"diffusive,constrained"
+multi,7,4,10,False,reject_constraint_diffusion,"frac_constrained=0.104, max_consecutive_diffusive=17",67,60,7,0,0.8955223880597015,0.1044776119402985,0.0,17,0,diffusive,0.8955223880597015,constraint_diffusion,"diffusive,constrained"
+multi,7,4,11,True,multi_constraint_diffusion,frac_constrained=0.727 >= 0.300; max_consecutive_diffusive=3 < 4,11,3,8,0,0.2727272727272727,0.7272727272727273,0.0,3,1,constrained,0.7272727272727273,constraint_diffusion,"diffusive,constrained"
+multi,7,5,16,False,reject_constraint_diffusion,"frac_constrained=0.826, max_consecutive_diffusive=4",23,4,19,0,0.17391304347826086,0.8260869565217391,0.0,4,1,constrained,0.8260869565217391,constraint_diffusion,"diffusive,constrained"
+multi,7,5,21,False,reject_constraint_diffusion,"frac_constrained=0.510, max_consecutive_diffusive=17",51,25,26,0,0.49019607843137253,0.5098039215686274,0.0,17,1,constrained,0.5098039215686274,constraint_diffusion,"diffusive,constrained"
+multi,7,5,30,False,reject_bound_constraint_low_constrained,frac_constrained=0.066 < 0.150,91,0,6,85,0.0,0.06593406593406594,0.9340659340659341,0,2,bound,0.9340659340659341,bound_constraint,"constrained,bound"

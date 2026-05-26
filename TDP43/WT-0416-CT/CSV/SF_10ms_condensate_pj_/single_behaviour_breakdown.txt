@@ -1,0 +1,66 @@
+Single-Behaviour Track Breakdown
+================================
+
+Input file: D:\TDP43-mutant-wt-nter-FC_analysis\WT_selected\20240416_ct\CSV\SF_10ms_condensate_may20_\single-behaviour-track.csv
+Minimum consecutive frames used for stable-state identity: 3
+Frame interval: 0.01 s
+
+Overall totals
+--------------
+Total single-behaviour tracks: 1239
+Total valid non-gap frames: 20626
+
+Frame-weighted raw state occupancy within single-behaviour-track.csv
+--------------------------------------------------------------------
+  Diffusion: 11246 frames (54.52%)
+  Constrained diffusion: 3555 frames (17.24%)
+  Bound: 5825 frames (28.24%)
+
+Track-weighted identity and duration statistics
+-----------------------------------------------
+
+State: Diffusion
+  Assigned tracks: 850
+  Track fraction: 68.60%
+  Raw frame fraction: 54.52%
+  Assigned-track duration fraction: 56.75%
+  Mean duration: 13.772 frames
+  Median duration: 12.000 frames
+  Minimum duration: 10.000 frames
+  Maximum duration: 48.000 frames
+  Mean duration: 0.138 s
+  Median duration: 0.120 s
+  Minimum duration: 0.100 s
+  Maximum duration: 0.480 s
+
+State: Constrained diffusion
+  Assigned tracks: 179
+  Track fraction: 14.45%
+  Raw frame fraction: 17.24%
+  Assigned-track duration fraction: 13.93%
+  Mean duration: 16.056 frames
+  Median duration: 14.000 frames
+  Minimum duration: 10.000 frames
+  Maximum duration: 52.000 frames
+  Mean duration: 0.161 s
+  Median duration: 0.140 s
+  Minimum duration: 0.100 s
+  Maximum duration: 0.520 s
+
+State: Bound
+  Assigned tracks: 210
+  Track fraction: 16.95%
+  Raw frame fraction: 28.24%
+  Assigned-track duration fraction: 29.31%
+  Mean duration: 28.790 frames
+  Median duration: 20.000 frames
+  Minimum duration: 10.000 frames
+  Maximum duration: 130.000 frames
+  Mean duration: 0.288 s
+  Median duration: 0.200 s
+  Minimum duration: 0.100 s
+  Maximum duration: 1.300 s
+
+Assignment method counts
+------------------------
+  single_stable_state: 1239

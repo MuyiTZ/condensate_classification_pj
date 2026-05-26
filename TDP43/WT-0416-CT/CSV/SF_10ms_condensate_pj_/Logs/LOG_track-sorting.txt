@@ -1,0 +1,185 @@
+Processing: D:\TDP43-mutant-wt-nter-FC_analysis\WT_selected\20240416_ct\20240416_ct_seg\0416_nD_Snap1_HO_FC_WT_clone1_cp_masks.png 
+	# Cells in Video: 6 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 44 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 44 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 63 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 63 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 41 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 41 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 57 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 57 
+	-> Cell 4  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 101 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 101 
+	-> Cell 5  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 46 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 46 
+Processing: D:\TDP43-mutant-wt-nter-FC_analysis\WT_selected\20240416_ct\20240416_ct_seg\0416_nD_Snap2_HO_FC_WT_clone1_cp_masks.png 
+	# Cells in Video: 6 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 168 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 168 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 132 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 132 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 129 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 129 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 93 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 93 
+	-> Cell 4  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 119 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 119 
+	-> Cell 5  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 58 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 58 
+Processing: D:\TDP43-mutant-wt-nter-FC_analysis\WT_selected\20240416_ct\20240416_ct_seg\0416_nD_Snap3_HO_FC_WT_clone1_cp_masks.png 
+	# Cells in Video: 4 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 121 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 121 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 140 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 140 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 165 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 165 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 169 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 169 
+Processing: D:\TDP43-mutant-wt-nter-FC_analysis\WT_selected\20240416_ct\20240416_ct_seg\0416_nD_Snap4_HO_FC_WT_clone1_cp_masks.png 
+	# Cells in Video: 7 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 172 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 172 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 117 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 117 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 118 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 118 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 128 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 128 
+	-> Cell 4  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 137 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 137 
+	-> Cell 5  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 81 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 81 
+	-> Cell 6  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 127 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 127 
+Processing: D:\TDP43-mutant-wt-nter-FC_analysis\WT_selected\20240416_ct\20240416_ct_seg\0416_nD_Snap5_HO_FC_WT_clone1_cp_masks.png 
+	# Cells in Video: 5 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 103 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 103 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 71 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 71 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 36 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 36 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 113 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 113 
+	-> Cell 4  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 111 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 111 
+Processing: D:\TDP43-mutant-wt-nter-FC_analysis\WT_selected\20240416_ct\20240416_ct_seg\0416_nD_Snap6_HO_FC_WT_clone1_cp_masks.png 
+	# Cells in Video: 5 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 46 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 46 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 45 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 45 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 50 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 50 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 46 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 46 
+	-> Cell 4  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 79 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 79 
+Processing: D:\TDP43-mutant-wt-nter-FC_analysis\WT_selected\20240416_ct\20240416_ct_seg\0416_nD_Snap7_HO_FC_WT_clone1_cp_masks.png 
+	# Cells in Video: 5 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 183 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 183 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 161 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 161 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 149 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 149 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 209 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 209 
+	-> Cell 4  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 171 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 171 
+Processing: D:\TDP43-mutant-wt-nter-FC_analysis\WT_selected\20240416_ct\20240416_ct_seg\0416_nD_Snap8_HO_FC_WT_clone1_cp_masks.png 
+	# Cells in Video: 4 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 106 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 106 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 91 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 91 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 206 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 206 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 114 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 114 
+Saving to csv: D:\TDP43-mutant-wt-nter-FC_analysis\WT_selected\20240416_ct\CSV\SF_10ms_condensate_may20_\Intermediates\tracks.csv 

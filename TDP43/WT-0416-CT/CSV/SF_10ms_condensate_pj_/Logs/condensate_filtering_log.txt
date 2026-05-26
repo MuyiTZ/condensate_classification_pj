@@ -1,0 +1,34 @@
+Condensate Filtering Log
+=======================
+
+Filtering parameters
+--------------------
+single_behavior_min_fraction: 0.5
+single_allowed_states: constrained,bound
+bound_constrained_min_constrained_fraction: 0.15
+constrained_diffusive_min_constrained_fraction: 0.3
+all_three_min_constrained_fraction: 0.3
+max_consecutive_diffusive_allowed: 3
+Note: rules using diffusive-run length require max consecutive diffusive frames < threshold.
+
+Summary
+-------
+Single-behaviour tracks total: 1239
+Single-behaviour selected: 389
+Multi-behaviour tracks total: 1058
+Multi-behaviour selected: 329
+Total selected tracks: 718
+
+Selected rule counts
+--------------------
+multi_bound_constraint: 329
+single_like_bound: 210
+single_like_constrained: 179
+
+Rejected rule counts
+--------------------
+reject_single_dominant_not_allowed: 850
+reject_constraint_diffusion: 533
+reject_all_three: 149
+reject_bound_constraint_low_constrained: 43
+reject_bound_diffusion_no_constrained: 4

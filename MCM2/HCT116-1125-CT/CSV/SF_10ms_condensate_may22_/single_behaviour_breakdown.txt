@@ -1,0 +1,66 @@
+Single-Behaviour Track Breakdown
+================================
+
+Input file: D:\Tianzi\20251125-MCM2-Halo\stream\ImagesNoMetadata\Analysis_FC_1125_MCM2\SF_10ms_condensate_may22_\single-behaviour-track.csv
+Minimum consecutive frames used for stable-state identity: 3
+Frame interval: 0.01 s
+
+Overall totals
+--------------
+Total single-behaviour tracks: 1127
+Total valid non-gap frames: 20870
+
+Frame-weighted raw state occupancy within single-behaviour-track.csv
+--------------------------------------------------------------------
+  Diffusion: 10401 frames (49.84%)
+  Constrained diffusion: 3524 frames (16.89%)
+  Bound: 6945 frames (33.28%)
+
+Track-weighted identity and duration statistics
+-----------------------------------------------
+
+State: Diffusion
+  Assigned tracks: 785
+  Track fraction: 69.65%
+  Raw frame fraction: 49.84%
+  Assigned-track duration fraction: 53.43%
+  Mean duration: 14.205 frames
+  Median duration: 12.000 frames
+  Minimum duration: 10.000 frames
+  Maximum duration: 52.000 frames
+  Mean duration: 0.142 s
+  Median duration: 0.120 s
+  Minimum duration: 0.100 s
+  Maximum duration: 0.520 s
+
+State: Constrained diffusion
+  Assigned tracks: 164
+  Track fraction: 14.55%
+  Raw frame fraction: 16.89%
+  Assigned-track duration fraction: 12.56%
+  Mean duration: 15.988 frames
+  Median duration: 14.000 frames
+  Minimum duration: 10.000 frames
+  Maximum duration: 56.000 frames
+  Mean duration: 0.160 s
+  Median duration: 0.140 s
+  Minimum duration: 0.100 s
+  Maximum duration: 0.560 s
+
+State: Bound
+  Assigned tracks: 178
+  Track fraction: 15.79%
+  Raw frame fraction: 33.28%
+  Assigned-track duration fraction: 34.01%
+  Mean duration: 39.871 frames
+  Median duration: 27.000 frames
+  Minimum duration: 10.000 frames
+  Maximum duration: 210.000 frames
+  Mean duration: 0.399 s
+  Median duration: 0.270 s
+  Minimum duration: 0.100 s
+  Maximum duration: 2.100 s
+
+Assignment method counts
+------------------------
+  single_stable_state: 1127

@@ -1,0 +1,123 @@
+Processing: D:\Tianzi\20240426_HAP1_NONO\HAP1_NONO_CTRL\MASK\0625_nD_Snap1_HO_NONO_ctrl_cp_masks.png 
+	# Cells in Video: 5 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 120 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 120 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 165 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 165 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 100 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 100 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 133 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 133 
+	-> Cell 4  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 110 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 110 
+Processing: D:\Tianzi\20240426_HAP1_NONO\HAP1_NONO_CTRL\MASK\0625_nD_Snap2_HO_NONO_ctrl_cp_masks.png 
+	# Cells in Video: 4 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 156 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 156 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 124 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 124 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 82 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 82 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 176 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 176 
+Processing: D:\Tianzi\20240426_HAP1_NONO\HAP1_NONO_CTRL\MASK\0625_nD_Snap3_HO_NONO_ctrl_cp_masks.png 
+	# Cells in Video: 6 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 263 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 263 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 193 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 193 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 170 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 170 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 62 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 62 
+	-> Cell 4  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 269 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 269 
+	-> Cell 5  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 184 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 184 
+Processing: D:\Tianzi\20240426_HAP1_NONO\HAP1_NONO_CTRL\MASK\0625_nD_Snap5_HO_NONO_ctrl_cp_masks.png 
+	# Cells in Video: 6 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 108 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 108 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 158 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 158 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 97 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 97 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 137 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 137 
+	-> Cell 4  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 122 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 122 
+	-> Cell 5  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 119 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 119 
+Processing: D:\Tianzi\20240426_HAP1_NONO\HAP1_NONO_CTRL\MASK\0625_nD_Snap6_HO_NONO_ctrl_cp_masks.png 
+	# Cells in Video: 7 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 152 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 152 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 219 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 219 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 282 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 282 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 380 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 380 
+	-> Cell 4  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 394 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 394 
+	-> Cell 5  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 274 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 274 
+	-> Cell 6  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 302 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 302 
+Saving to csv: D:\Tianzi\20240426_HAP1_NONO\HAP1_NONO_CTRL\STREAM\ImagesNoMetadata\d1\SF_10ms_condensate_may22_\Intermediates\tracks.csv 

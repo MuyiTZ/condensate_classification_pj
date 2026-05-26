@@ -1,0 +1,107 @@
+Processing: D:\Tianzi\condensate_classification_pj\NLS\HAP1-1003-CT\seg\1003_nD_Snap1_BF_FC_HA1_NLS_woFBS_PB_cp_masks.png 
+	# Cells in Video: 3 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 41 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 41 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 214 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 214 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 105 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 105 
+Processing: D:\Tianzi\condensate_classification_pj\NLS\HAP1-1003-CT\seg\1003_nD_Snap2_BF_FC_HA1_NLS_woFBS_PB_cp_masks.png 
+	# Cells in Video: 3 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 121 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 121 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 121 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 121 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 78 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 78 
+Processing: D:\Tianzi\condensate_classification_pj\NLS\HAP1-1003-CT\seg\1003_nD_Snap3_BF_FC_HA1_NLS_woFBS_PB_cp_masks.png 
+	# Cells in Video: 2 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 135 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 135 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 144 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 144 
+Processing: D:\Tianzi\condensate_classification_pj\NLS\HAP1-1003-CT\seg\1003_nD_Snap4_BF_FC_HA1_NLS_woFBS_PB_cp_masks.png 
+	# Cells in Video: 2 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 21 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 21 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 14 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 14 
+Processing: D:\Tianzi\condensate_classification_pj\NLS\HAP1-1003-CT\seg\1003_nD_Snap5_BF_FC_HA1_NLS_woFBS_PB_cp_masks.png 
+	# Cells in Video: 4 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 65 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 65 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 45 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 45 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 238 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 238 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 46 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 46 
+Processing: D:\Tianzi\condensate_classification_pj\NLS\HAP1-1003-CT\seg\1003_nD_Snap6_BF_FC_HA1_NLS_woFBS_PB_cp_masks.png 
+	# Cells in Video: 4 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 91 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 91 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 88 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 88 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 91 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 91 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 152 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 152 
+Processing: D:\Tianzi\condensate_classification_pj\NLS\HAP1-1003-CT\seg\1003_nD_Snap7_BF_FC_HA1_NLS_woFBS_PB_cp_masks.png 
+	# Cells in Video: 5 
+	-> Cell 0  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 56 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 56 
+	-> Cell 1  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 61 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 61 
+	-> Cell 2  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 31 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 31 
+	-> Cell 3  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 16 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 16 
+	-> Cell 4  [ ELIMINATED BY CELL MASK: 0 ] 
+		: # Tracks in Cell: 48 
+		: # Splitting: 0 # Filtered: 0 
+		: # Continuous, Individual Tracks: 48 
+Saving to csv: D:\Tianzi\condensate_classification_pj\NLS\HAP1-1003-CT\CSV\SF_10ms_condensate_may25_\Intermediates\tracks.csv 

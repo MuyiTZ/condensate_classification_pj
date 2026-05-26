@@ -1,0 +1,95 @@
+Multi-Behaviour Track Breakdown
+==============================
+
+Sustained bound-segment definition
+----------------------------------
+A sustained bound segment is defined as Bound == 2 for at least 4 consecutive frames.
+
+Category: Bound + Constraint
+  Number of tracks: 372
+  Total frames: 14208
+  Frame counts per behavior:
+    bound: 9102 frames (64.06%)
+    const. diff: 5106 frames (35.94%)
+    diffusion: 0 frames (0.00%)
+  Average state duration (frames):
+    bound: 14.90 frames
+    const. diff: 6.20 frames
+    diffusion: 0.00 frames
+  Sustained bound-segment duration (Bound >= 4 consecutive frames):
+    qualifying bound segments: 611
+    mean duration: 14.897 frames
+    minimum duration: 4.000 frames
+    maximum duration: 172.000 frames
+  Transition probability matrix (rows: from, cols: to):
+         To Diff     To Con     To Bnd
+From Diff    0.000    0.000    0.000
+From Con    0.000    0.889    0.111
+From Bnd    0.000    0.058    0.942
+
+Category: Bound + Diffusion
+  Number of tracks: 4
+  Total frames: 207
+  Frame counts per behavior:
+    bound: 187 frames (90.34%)
+    const. diff: 0 frames (0.00%)
+    diffusion: 20 frames (9.66%)
+  Average state duration (frames):
+    bound: 46.75 frames
+    const. diff: 0.00 frames
+    diffusion: 5.00 frames
+  Sustained bound-segment duration (Bound >= 4 consecutive frames):
+    qualifying bound segments: 4
+    mean duration: 46.750 frames
+    minimum duration: 5.000 frames
+    maximum duration: 131.000 frames
+  Transition probability matrix (rows: from, cols: to):
+         To Diff     To Con     To Bnd
+From Diff    0.842    0.000    0.158
+From Con    0.000    0.000    0.000
+From Bnd    0.005    0.000    0.995
+
+Category: Constraint + Diffusion
+  Number of tracks: 533
+  Total frames: 10719
+  Frame counts per behavior:
+    bound: 0 frames (0.00%)
+    const. diff: 5567 frames (51.94%)
+    diffusion: 5152 frames (48.06%)
+  Average state duration (frames):
+    bound: 0.00 frames
+    const. diff: 6.43 frames
+    diffusion: 6.03 frames
+  Sustained bound-segment duration (Bound >= 4 consecutive frames):
+    qualifying bound segments: 0
+    mean duration: NA frames
+    minimum duration: NA frames
+    maximum duration: NA frames
+  Transition probability matrix (rows: from, cols: to):
+         To Diff     To Con     To Bnd
+From Diff    0.877    0.123    0.000
+From Con    0.110    0.890    0.000
+From Bnd    0.000    0.000    0.000
+
+Category: Bound + Constraint + Diffusion
+  Number of tracks: 149
+  Total frames: 6095
+  Frame counts per behavior:
+    bound: 2999 frames (49.20%)
+    const. diff: 2014 frames (33.04%)
+    diffusion: 1082 frames (17.75%)
+  Average state duration (frames):
+    bound: 14.70 frames
+    const. diff: 5.55 frames
+    diffusion: 4.99 frames
+  Sustained bound-segment duration (Bound >= 4 consecutive frames):
+    qualifying bound segments: 204
+    mean duration: 14.701 frames
+    minimum duration: 4.000 frames
+    maximum duration: 221.000 frames
+  Transition probability matrix (rows: from, cols: to):
+         To Diff     To Con     To Bnd
+From Diff    0.838    0.141    0.020
+From Con    0.058    0.852    0.090
+From Bnd    0.008    0.053    0.939
+
