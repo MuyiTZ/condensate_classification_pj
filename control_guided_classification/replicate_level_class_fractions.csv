@@ -1,0 +1,17 @@
+protein,condition,replicate,final_control_guided_class,n_tracks
+H2B,CT,0117,chromatin_bound_like,8144
+H2B,CT,0117,free_like,332
+MCM2,CT,1125,ambiguous,313
+MCM2,CT,1125,chromatin_bound_like,1659
+MCM2,CT,1125,free_like,616
+MCM2,CT,1125,mcm_bound_like,73
+MCM2_Bound,CT,1125,mcm_bound_like,178
+NLS,CT,1003,free_like,718
+NONO,CT,0426,ambiguous,436
+NONO,CT,0426,chromatin_bound_like,2876
+NONO,CT,0426,free_like,237
+NONO,CT,0426,mcm_bound_like,124
+TDP43,CT,0416,ambiguous,373
+TDP43,CT,0416,chromatin_bound_like,1766
+TDP43,CT,0416,free_like,757
+TDP43,CT,0416,mcm_bound_like,69

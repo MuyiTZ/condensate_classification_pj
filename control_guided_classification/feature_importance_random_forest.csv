@@ -1,0 +1,8 @@
+feature,importance
+frac_bound,0.2659805499912869
+frac_constrained,0.1656040100963294
+frac_diffusive,0.13751119201806866
+max_consecutive_constrained,0.1343259091156011
+max_consecutive_diffusive,0.1328579790108633
+max_consecutive_bound,0.1158102028775956
+n_state_switches,0.04791015689025514

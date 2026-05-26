@@ -1,0 +1,12 @@
+feature,dtype,description
+max_trap_dwell_frames,float64,Extracted or aggregated track feature
+mean_trap_dwell_frames,float64,Extracted or aggregated track feature
+trap_prob_mean,float64,Extracted or aggregated track feature
+frac_supported_high_score_windows,float64,Extracted or aggregated track feature
+max_consecutive_diffusive,float64,Extracted or aggregated track feature
+frac_bound,float64,Extracted or aggregated track feature
+frac_constrained,float64,Extracted or aggregated track feature
+frac_diffusive,float64,Extracted or aggregated track feature
+max_consecutive_constrained,float64,Extracted or aggregated track feature
+max_consecutive_bound,float64,Extracted or aggregated track feature
+n_state_switches,float64,Extracted or aggregated track feature

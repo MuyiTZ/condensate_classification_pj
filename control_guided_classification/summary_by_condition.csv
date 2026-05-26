@@ -1,0 +1,2 @@
+condition,total_tracks,n_free_like,frac_free_like,n_chromatin_bound_like,frac_chromatin_bound_like,n_mcm_bound_like,frac_mcm_bound_like,n_slow_diffusive,frac_slow_diffusive,n_mixed,frac_mixed,n_target_specific_trapping_like,frac_target_specific_trapping_like,n_ambiguous,frac_ambiguous,median_trapping_score,median_temporal_score,median_max_trap_dwell_frames,median_control_outlier_score
+CT,18671,2660,0.14246692732044347,14445,0.7736596861442879,444,0.023780193883562745,0,0.0,0,0.0,0,0.0,1122,0.06009319265170585,,,21.0,1.5464524326203992

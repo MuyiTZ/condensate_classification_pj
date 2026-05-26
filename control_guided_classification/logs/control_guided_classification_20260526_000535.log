@@ -1,0 +1,14 @@
+[2026-05-26T00:05:35] Started control-guided condensate classification
+[2026-05-26T00:05:36] Python version: 3.11.13 | packaged by Anaconda, Inc. | (main, Jun  5 2025, 13:03:15) [MSC v.1929 64 bit (AMD64)]
+[2026-05-26T00:05:36] Operating system: Windows-10-10.0.26200-SP0
+[2026-05-26T00:05:36] Current working directory: C:\Users\rangq\Desktop\SMT_codes\Analysis_PIPELINE\workshopV2\Smol-FIESTA\SMol_FIESTA
+[2026-05-26T00:05:36] Project folder: D:\Tianzi\condensate_classification_pj
+[2026-05-26T00:05:36] Output folder: D:\Tianzi\condensate_classification_pj\control_guided_classification
+[2026-05-26T00:05:36] Dry run: False
+[2026-05-26T00:05:36] Random seed: 42
+[2026-05-26T00:05:36] Discovered 919 files
+[2026-05-26T00:05:36] Standardized MCM2_Bound copy created: D:\Tianzi\condensate_classification_pj\control_guided_classification\standardized_inputs\MCM2_Bound.csv
+[2026-05-26T00:06:01] NLS trapping threshold: nan
+[2026-05-26T00:06:01] Diffusive fraction threshold: 0.5
+[2026-05-26T00:06:01] Control outlier threshold: 3.6538428494336097
+[2026-05-26T00:06:02] Finished with exit code 0

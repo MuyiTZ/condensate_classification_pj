@@ -1,0 +1,7 @@
+protein,dataset_name,control_role,n_tracks
+H2B,HAP1-0117-CT,chromatin_bound_control,8476
+MCM2,HCT116-1125-CT,unused_or_reference,2661
+MCM2_Bound,HCT116-1125-CT,mcm_bound_control,178
+NLS,HAP1-1003-CT,free_like_control,718
+NONO,HAP1-0426-CT,target,3673
+TDP43,WT-0416-CT,target,2965

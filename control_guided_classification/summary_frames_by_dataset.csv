@@ -1,0 +1,16 @@
+dataset_name,final_control_guided_class,n_frames
+HAP1-0117-CT,chromatin_bound_like,224793
+HAP1-0117-CT,free_like,3365
+HAP1-0426-CT,ambiguous,21578
+HAP1-0426-CT,chromatin_bound_like,55522
+HAP1-0426-CT,free_like,3005
+HAP1-0426-CT,mcm_bound_like,2909
+HAP1-1003-CT,free_like,12705
+HCT116-1125-CT,ambiguous,13484
+HCT116-1125-CT,chromatin_bound_like,30856
+HCT116-1125-CT,free_like,8229
+HCT116-1125-CT,mcm_bound_like,9860
+WT-0416-CT,ambiguous,11249
+WT-0416-CT,chromatin_bound_like,29751
+WT-0416-CT,free_like,9951
+WT-0416-CT,mcm_bound_like,1572

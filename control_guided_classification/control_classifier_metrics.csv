@@ -1,0 +1,23 @@
+metric,value
+accuracy,0.8131668800682885
+balanced_accuracy,0.696515495719818
+chromatin_bound_control_precision,0.9467392748040908
+chromatin_bound_control_recall,0.8409627182633318
+chromatin_bound_control_f1-score,0.8907216494845361
+chromatin_bound_control_support,8476.0
+free_like_control_precision,0.4022346368715084
+free_like_control_recall,0.5013927576601671
+free_like_control_f1-score,0.4463732176069436
+free_like_control_support,718.0
+mcm_bound_control_precision,0.14029535864978904
+mcm_bound_control_recall,0.7471910112359551
+mcm_bound_control_f1-score,0.23623445825932504
+mcm_bound_control_support,178.0
+macro avg_precision,0.49642309010846275
+macro avg_recall,0.696515495719818
+macro avg_f1-score,0.5244431084502682
+macro avg_support,9372.0
+weighted avg_precision,0.8897075476262142
+weighted avg_recall,0.8131668800682885
+weighted avg_f1-score,0.8442490828897646
+weighted avg_support,9372.0
