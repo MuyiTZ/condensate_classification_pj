@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+~$*
+
+# Local/private environment files and credentials
+.env
+*.env
+secrets.*
+credentials.*
+token.*
+*.pem
+*.key
+
+# Python/virtual environment folders that should not be versioned
+venv/
+.venv/
+env/
+conda-meta/
