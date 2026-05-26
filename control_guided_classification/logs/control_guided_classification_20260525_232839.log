@@ -7,3 +7,14 @@ random_seed=42
 mode=setup_before_dry_run
 note=Log created before project implementation and dry-run execution.
 [2026-05-25T23:33:51] PowerShell dry-run inventory completed. Result=PASS
+[git] git init
+[git] git status --short
+[git] git -c safe.directory=D:/Tianzi/condensate_classification_pj add .gitignore
+[git] git -c safe.directory=D:/Tianzi/condensate_classification_pj commit -m "Initialize condensate classification project repository"
+[git] git -c safe.directory=D:/Tianzi/condensate_classification_pj add .
+[git] git -c safe.directory=D:/Tianzi/condensate_classification_pj commit -m "Record dry-run inventory for condensate classification"
+[git] git -c safe.directory=D:/Tianzi/condensate_classification_pj add control_guided_classification/RUN_SUMMARY.md
+[git] git -c safe.directory=D:/Tianzi/condensate_classification_pj commit -m "Add dry-run summary for condensate classification"
+[warning] Python runtime access outside the two approved folders was rejected; full analysis was not run.
+[warning] File over 50 MB: H2b/HAP1-0117-CT/CSV/SF_10ms_condensate_may25_/Intermediates/tracks.csv = 71745112 bytes. No files over 100 MB found.
+[end] Dry-run phase complete.
