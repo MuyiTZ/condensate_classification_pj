@@ -1,0 +1,2 @@
+centroid_distance,mean_within_h2b_distance,mean_within_mcm2_distance,mean_between_class_distance,between_to_within_ratio,silhouette_score
+1.3349025658530098,3.354500447188039,3.890051412062649,3.8995660549240263,1.0765513535373774,0.15006667853147113

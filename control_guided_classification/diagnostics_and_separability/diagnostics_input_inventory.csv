@@ -1,0 +1,5 @@
+role,relative_path,size_bytes
+H2B_Bound,H2b/HAP1-0117-CT/CSV/SF_10ms_condensate_pj_/single-behaviour-track-H2b-bound.csv,14111668
+MCM2_Bound,MCM2/HCT116-1125-CT/CSV/SF_10ms_condensate_may22_/single-behaviour-track-MCM2-bound.csv,1115648
+final_control_guided,control_guided_classification/final_control_guided_track_classification.csv,9354407
+feature_matrix,control_guided_classification/feature_matrix_tracks.csv,4325927

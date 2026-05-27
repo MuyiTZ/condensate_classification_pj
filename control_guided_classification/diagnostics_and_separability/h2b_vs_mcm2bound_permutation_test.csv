@@ -1,0 +1,2 @@
+n_permutations,observed_balanced_accuracy,mean_permuted_balanced_accuracy,p_value
+50,0.6229894167560259,0.5000570345159836,0.0196078431372549

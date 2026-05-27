@@ -1,0 +1,9 @@
+[2026-05-27T15:21:22] Diagnostics and separability analysis started
+[2026-05-27T15:21:22] python=3.11.13 | packaged by Anaconda, Inc. | (main, Jun  5 2025, 13:03:15) [MSC v.1929 64 bit (AMD64)]
+[2026-05-27T15:21:22] platform=Windows-10-10.0.26200-SP0
+[2026-05-27T15:21:22] cwd=C:\Users\rangq\Desktop\SMT_codes\Analysis_PIPELINE\workshopV2\Smol-FIESTA\SMol_FIESTA
+[2026-05-27T15:21:23] H2B-bound file used: D:\Tianzi\condensate_classification_pj\H2b\HAP1-0117-CT\CSV\SF_10ms_condensate_pj_\single-behaviour-track-H2b-bound.csv
+[2026-05-27T15:21:23] MCM2-bound file used: D:\Tianzi\condensate_classification_pj\MCM2\HCT116-1125-CT\CSV\SF_10ms_condensate_may22_\single-behaviour-track-MCM2-bound.csv
+[2026-05-27T15:21:23] Old condensate evaluation files discovered: 48
+[2026-05-27T15:21:27] H2B_Bound tracks: 2169; MCM2_Bound tracks: 178
+[2026-05-27T15:21:27] Features used for bound-control separability: ['n_frames', 'track_length', 'step_size_mean', 'step_size_median', 'step_size_p95', 'path_length', 'net_displacement', 'Rg', 'intensity_mean', 'intensity_std', 'max_consecutive_bound']
