@@ -1,0 +1,2 @@
+group,n_tracks,frac_failed_not_free,frac_failed_not_h2b_like,frac_failed_not_mcm2_like,frac_failed_temporal_support,frac_failed_no_diffusive_burst,frac_failed_control_outlier,frac_failed_feature_completeness,frac_failed_target_protein,mean_failed_gate_count
+CT,9930,0.10191339375629406,0.7920443101711984,0.02608257804632427,1.0,0.1673716012084592,0.9468277945619336,0.0002014098690835851,0.0,3.0344410876132932
