@@ -1,0 +1,6 @@
+requested_feature,present_column_used,status,n_tracks,missing_fraction,non_missing_fraction,pass_rate_if_interpretable,pass_rule
+trap_prob_mean,trap_prob_mean,present,6638,0.7520337451039469,0.24796625489605303,0.24796625489605303,>= 0.30
+max_trap_dwell_frames,max_trap_dwell_frames,present,6638,0.7520337451039469,0.24796625489605303,0.24796625489605303,>= 4 frames
+n_supported_high_score_windows,n_supported_high_score_windows,present,6638,1.0,0.0,0.0,>= 1
+temporal_score,temporal_score,present,6638,1.0,0.0,0.0,> 0
+supported_high_score_window,supported_temporal_trapping,alias_or_misnamed,6638,0.0,1.0,0.0,boolean True

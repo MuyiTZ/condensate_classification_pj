@@ -1,0 +1,11 @@
+# Gate-ablation analysis
+
+Counts are candidate motion-pattern calls under each diagnostic rule, not definitive condensate localization.
+
+| scenario | n_pass | n_total | fraction_pass |
+| --- | --- | --- | --- |
+| full_strict_rule | 0 | 9930 | 0.0 |
+| without_temporal_gate | 34 | 9930 | 0.0034239677744209466 |
+| without_not_h2b_gate | 0 | 9930 | 0.0 |
+| without_control_outlier_gate | 0 | 9930 | 0.0 |
+| relaxed_near_miss_rule | 7911 | 9930 | 0.7966767371601209 |
