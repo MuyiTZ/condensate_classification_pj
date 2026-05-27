@@ -25,6 +25,7 @@ True
 ## TDP43 Folder Parsing
 Pattern: <genotype>-<date_or_experiment_id>-<treatment>. Unknown fields are kept as unknown rather than crashing.
 - WT-0416-CT: genotype=WT; experiment=0416; treatment=CT; replicate=WT-0416-CT; analysis_folders=SF_10ms_condensate_pj_
+- WT-0416-CT: genotype=WT; experiment=0416; treatment=CT; replicate=WT-0416-CT; analysis_folders=SF_10ms_condensate_pj_
 - 12D-0416-CT: genotype=12D; experiment=0416; treatment=CT; replicate=12D-0416-CT; analysis_folders=SF_10ms_condensate_pj_
 - WT-0423-CT: genotype=WT; experiment=0423; treatment=CT; replicate=WT-0423-CT; analysis_folders=SF_10ms_condensate_pj_
 - WT-1211-ACTD: genotype=WT; experiment=1211; treatment=ACTD; replicate=WT-1211-ACTD; analysis_folders=SF_10ms_condensate_pj_
@@ -36,7 +37,6 @@ Pattern: <genotype>-<date_or_experiment_id>-<treatment>. Unknown fields are kept
 - 12D-0423-CT: genotype=12D; experiment=0423; treatment=CT; replicate=12D-0423-CT; analysis_folders=SF_10ms_condensate_pj_
 - 12D-0416-ARS: genotype=12D; experiment=0416; treatment=ARS; replicate=12D-0416-ARS; analysis_folders=SF_10ms_condensate_pj_
 - 12D-0423-ARS: genotype=12D; experiment=0423; treatment=ARS; replicate=12D-0423-ARS; analysis_folders=SF_10ms_condensate_pj_
-- 12D-0515-ars: genotype=12D; experiment=0515; treatment=ars; replicate=12D-0515-ars; analysis_folders=SF_10ms_condensate_pj_
+- 12D-0515-ars: genotype=12D; experiment=0515; treatment=ARS; replicate=12D-0515-ars; analysis_folders=SF_10ms_condensate_pj_
 
-Dry-run inventory result: 
-PASS
+Dry-run inventory result: PASS

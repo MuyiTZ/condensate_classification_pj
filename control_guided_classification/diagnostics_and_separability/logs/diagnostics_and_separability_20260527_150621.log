@@ -4,3 +4,4 @@ mode=dry_run_inventory_only
 project_folder=D:\Tianzi\condensate_classification_pj
 module_folder=C:\Users\rangq\Desktop\SMT_codes\Analysis_PIPELINE\workshopV2\Smol-FIESTA\SMol_FIESTA
 [inventory] h2b_bound_count=1 [inventory] mcm2_bound_count=1 [inventory] final_control_guided_exists=True [inventory] old_condensate_eval_count=48 [inventory] tdp43_condition_folder_count=13 [inventory] result=PASS
+[inventory] normalized lowercase treatment labels such as ars to ARS.
