@@ -1,0 +1,2 @@
+genotype,treatment,n_tracks,mean_failed_gate_count,frac_near_miss
+WT,CT,4299,3.117003954408002,0.11444521981856245
